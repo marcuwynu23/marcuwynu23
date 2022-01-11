@@ -6,7 +6,7 @@
 <img width="700em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
 
 ### Tools and Technology 
- This are the Tools and Technology that i used and i incounter in my days of studying programming 
+ These are the Tools and Technology that i used and i incounter in my days of studying programming 
  
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -22,7 +22,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Target Language to Learn
-This are language that i want to learn more
+These are language that i want to learn more
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
