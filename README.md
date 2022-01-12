@@ -2,7 +2,7 @@
 - 💚 I Love Learning new Things. </li>
 - 🤓 I'm interested in doing project collaboration.
 
-### Hobbies
+### Fun Facts
 - 📗 Reading books specially world building category
 - 👤 listening classic music much more relaxing
 - 🧐 googling random stuff 
