@@ -1,12 +1,17 @@
-
-# Repo Stats
+## Introduction
+<ul>
+ <li> I Love Learning new Things</li>
+ <li> I'm interested in doing project collaboration</li>
+</ul>
+## Statistics
 <img width="700em"  src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&show_icons=true&custom_title=My Stats&hide_border=true&theme=gotham" />
 <img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=gotham"/>
 <img  width="700em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&layout=compact&custom_title=Language used&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=gotham&hide="/>
 <img width="700em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
+<img width="700em" src="https://github-profile-trophy.vercel.app/?username=ragnar-codes&row=2&column=3&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy" />
 
 ### Tools and Technology 
- These are the Tools and Technology that i used and i incounter in studying programming 
+ These are the tools and technology that i used and i encounter in studying programming and related stuff.
  
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -22,7 +27,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Target Languages to Learn
-These are languages that i want to learn more
+These are the Languages that i want to learn more.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
