@@ -3,9 +3,9 @@
 - 🤓 I'm interested in doing project collaboration.
 
 ### Hobbies
--📗 Reading books specially world building category
--👤 listening classic music much more relaxing
--🧐 googling random stuff 
+- 📗 Reading books specially world building category
+- 👤 listening classic music much more relaxing
+- 🧐 googling random stuff 
 
 ## Repo Statistics
 
