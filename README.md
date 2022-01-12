@@ -8,7 +8,7 @@
 <img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=gotham"/>
 <img  width="700em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&layout=compact&custom_title=Language used&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=gotham&hide="/>
 <img width="700em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
-<img width="700em" src="https://github-profile-trophy.vercel.app/?username=ragnar-codes&row=2&column=3&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy" />
+<img width="700em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=gotham)](https://github.com/marcuwynu23/github-profile-trophy" />
 
 ### Tools and Technology 
  These are the tools and technology that i used and i encounter in studying programming and related stuff.
