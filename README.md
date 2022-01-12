@@ -1,7 +1,7 @@
 ## Introduction
 <ul>
- <li> I Love Learning new Things</li>
- <li> I'm interested in doing project collaboration</li>
+ <li>💚 I Love Learning new Things</li>
+ <li>🤓 I'm interested in doing project collaboration</li>
 </ul>
 ## Statistics
 <img width="700em"  src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&show_icons=true&custom_title=My Stats&hide_border=true&theme=gotham" />
