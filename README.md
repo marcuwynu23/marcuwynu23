@@ -1,9 +1,11 @@
 # Well, Hello There! Friend.
+- 💚 I Love Learning new Things. </li>
+- 🤓 I'm interested in doing project collaboration.
 
-<ul>
- <li>💚 I Love Learning new Things. </li>
- <li>🤓 I'm interested in doing project collaboration. </li>
-</ul> 
+### Hobbies
+-📗 Reading books specially world building category
+-👤 listening classic music much more relaxing
+-🧐 googling random stuff 
 
 ## Repo Statistics
 
