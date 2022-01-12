@@ -1,7 +1,7 @@
 # Well, Hello There! Friend.
 - 💚 I Love Learning new Things and do Programming just for fun. </li>
 - 🤓 I'm interested in doing project collaboration.
-- I Enjoy doing project about tools creation. 
+- 😍 I Enjoy doing projects creating tools and libraries fron the scratch. 
 
 ### Fun Facts
 - 📗 Reading books specially world building category
