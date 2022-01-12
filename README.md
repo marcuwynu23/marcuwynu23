@@ -1,5 +1,5 @@
 # Well, Hello There! Friend.
-- 💚 I Love Learning new Things. </li>
+- 💚 I Love Learning new Things and do Programming just for fun. </li>
 - 🤓 I'm interested in doing project collaboration.
 
 ### Fun Facts
