@@ -6,7 +6,7 @@
 <img width="700em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
 
 ### Tools and Technology 
- These are the Tools and Technology that i used and i incounter in my days of studying programming 
+ These are the Tools and Technology that i used and i incounter in studying programming 
  
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
