@@ -26,7 +26,7 @@
 <img width="700em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=gotham)](https://github.com/marcuwynu23/github-profile-trophy" />
 
 ## Tools and Technologies 
- These are the tools and technology that i used and i encounter in studying programming and related stuff.
+ These are the tools and technology that i used and i encountered in studying programming and related stuff.
  
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
