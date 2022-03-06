@@ -1,33 +1,35 @@
 # Well, Hello There! Friend.
-- 💚 I Love Learning new Things and do Programming just for fun. </li>
-- 🤓 I'm interested in doing project collaboration.
-- 😍 I Enjoy doing projects creating tools and libraries. 
+         💚 I Love Learning new Things and do Programming just for fun. </li>
+         🤓 I'm interested in doing project collaboration.
+         😍 I Enjoy doing projects creating tools and libraries. 
 
 ### Fun Facts
-- 📗 Reading books specially world building category
-- 👤 listening classic music much more relaxing
-- 🧐 googling random stuff 
+         📗 Reading books specially world building category
+         👤 listening classic music much more relaxing
+         🧐 googling random stuff 
 
 ## Repo Statistics
-
-<img width="700em"  src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&show_icons=true&custom_title=My Stats&hide_border=true&theme=gotham" />
-<img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=gotham"/>
+<p>
+<img width="1000em" height="250em"  src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&show_icons=true&custom_title=My Stats&hide_border=true&theme=gotham" />
+<img width="1000em" height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=gotham"/>
 
 ## Languages used by Projects
 
-<img  width="700em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&layout=compact&custom_title=Language used&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=gotham&hide="/>
+<img  width="1000em" height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&layout=compact&custom_title=Language used&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=gotham&hide="/>
 
 ## Contribution Graph
 
-<img width="700em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
+<img width="1000em" height="250em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
 
 ## Trophies
 
-<img width="700em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=gotham)](https://github.com/marcuwynu23/github-profile-trophy" />
+<img width="1000em" height="400em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=gotham)](https://github.com/marcuwynu23/github-profile-trophy" />
+</p>
 
 ## Tools and Technologies 
- These are the tools and technology that i used and i encountered in studying programming and related stuff.
- 
+                These are the tools and technology that i used and i encountered in studying programming and related stuff.
+
+
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
