@@ -1,12 +1,12 @@
 # Well, Hello There! Friend.
-         💚 I Love Learning new Things and do Programming just for fun. </li>
-         🤓 I'm interested in doing project collaboration.
-         😍 I Enjoy doing projects creating tools and libraries. 
+💚 I Love Learning new Things and do Programming just for fun. </li>
+🤓 I'm interested in doing project collaboration.
+😍 I Enjoy doing projects creating tools and libraries. 
 
 ### Fun Facts
-         📗 Reading books specially world building category
-         👤 listening classic music much more relaxing
-         🧐 googling random stuff 
+📗 Reading books specially world building category
+👤 listening classic music much more relaxing
+🧐 googling random stuff 
 
 ## Repo Statistics
 <p>
