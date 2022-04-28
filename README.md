@@ -1,11 +1,15 @@
 # Well, Hello There! Friend.
 💚 I Love Learning new Things and do Programming just for fun. </li>
+
 🤓 I'm interested in doing project collaboration.
+
 😍 I Enjoy doing projects creating tools and libraries. 
 
 ### Fun Facts
 📗 Reading books specially world building category
+
 👤 listening classic music much more relaxing
+
 🧐 googling random stuff 
 
 ## Repo Statistics
@@ -27,7 +31,7 @@
 </p>
 
 ## Tools and Technologies 
-                These are the tools and technology that i used and i encountered in studying programming and related stuff.
+These are the tools and technology that i used and i encountered in studying programming and related stuff.
 
 
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
