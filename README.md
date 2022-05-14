@@ -8,9 +8,9 @@
 ### Fun Facts
 📗 Reading books specially world building category
 
-👤 listening classic music much more relaxing
+👤 Listening classic music much more relaxing
 
-🧐 googling random stuff 
+🧐 Googling random stuff 
 
 ## Repo Statistics
 <p>
