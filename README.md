@@ -1,34 +1,25 @@
 # Well, Hello There! Friend.
+<p>
 <li> 💚 I Love Learning new Things and do Programming just for fun. </li>
-
 <li> 🤓 I'm interested in doing project collaboration. </li>
-
 <li> 😍 I Enjoy doing projects creating tools and libraries. </li>
-
-### Fun Facts
 <li> 📗 Reading books specially world building category </li>
-
 <li> 👤 Listening classic music much more relaxing </li>
-
 <li> 🧐 Googling random stuff </li>
+</p>
 
 ## Repo Statistics
+
+<img width="500em"  src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=dark"/>
+
 <p>
-<img width="1000em" height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=gotham"/>
-</p>
-## Contribution Graph
-
-<img width="1000em" height="250em" src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=gotham" />
-
-## Trophies
-
-<img width="1000em" height="400em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=gotham)](https://github.com/marcuwynu23/github-profile-trophy" />
+<img width="500em"  src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=dark" />
+<img width="500em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=dark)](https://github.com/marcuwynu23/github-profile-trophy" />
 </p>
 
 ## Tools and Technologies 
 These are the tools and technology that i used and i encountered in studying programming and related stuff.
-
-
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
