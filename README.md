@@ -1,31 +1,48 @@
+
+<img width="300px" src="https://avatars.githubusercontent.com/u/61897063?v=4" />
+<p  width="300px">
+  
 # Well, Hello There! Friend.
-<p>
+
 <li> 💚 I Love Learning new Things and do Programming just for fun. </li>
 <li> 🤓 I'm interested in doing project collaboration. </li>
 <li> 😍 I Enjoy doing projects creating tools and libraries. </li>
+</p>
+
+### Fun Facts
+
+<p>
 <li> 📗 Reading books specially world building category </li>
 <li> 👤 Listening classic music much more relaxing </li>
 <li> 🧐 Googling random stuff </li>
 </p>
 
-## Repo Statistics
+<br>
+
+### Repo Statistics
 
 <img width="500em"  src="https://github-readme-streak-stats.herokuapp.com/?user=marcuwynu23&include_all_commits=true&hide_border=true&theme=dark"/>
 
-<p>
-<img width="500em"  src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=dark" />
-<img width="500em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=dark)](https://github.com/marcuwynu23/github-profile-trophy" />
-</p>
+### Project Contribution Graphs
 
-## Tools and Technologies 
-These are the tools and technology that i used and i encountered in studying programming and related stuff.
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img width="500em"  src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=dark" />
+
+### Github Trophies
+
+<img width="500em" src="https://github-profile-trophy.vercel.app/?username=marcuwynu23&row=2&column=3&theme=dark)](https://github.com/marcuwynu23/github-profile-trophy" />
+
+### Tools and Technologies 
+
+#### These are the tools and technology that i used and i encountered in studying programming and related stuff.
+
 ![Sublime-Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -33,8 +50,11 @@ These are the tools and technology that i used and i encountered in studying pro
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+
 ### Target Languages to Learn
-These are the Languages that i want to learn more.
+
+#### These are the Languages that i want to learn more.
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
