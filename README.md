@@ -1,5 +1,5 @@
 
-<img width="300px" src="https://avatars.githubusercontent.com/u/61897063?v=4" />
+<img width="300px" src="https://avatars.githubusercontent.com/u/61897063?v=4&theme=dark" />
 <p  width="300px">
   
 # Well, Hello There! Friend.
@@ -26,6 +26,12 @@
 ### Project Contribution Graphs
 
 <img width="500em"  src="https://activity-graph.herokuapp.com/graph?username=marcuwynu23&theme=dark" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcuwynu23&langs_count=20&show_icons=true&locale=en&layout=compact&theme=dark" alt="marcuwynu23" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&show_icons=true&locale=en&theme=dark" alt="marcuwynu23" />
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcuwynu23&theme=dark" />
 
 ### Github Trophies
 
