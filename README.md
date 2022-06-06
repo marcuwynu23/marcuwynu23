@@ -1,6 +1,6 @@
-# Hello There. Friend.
-
 ![Banner](banner.jpg)
+
+# Hello There. Friend.
 
 #### About Me:
 ```java
