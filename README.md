@@ -3,22 +3,27 @@
 # Hello There. Friend.
 
 #### About Me:
--  I can do all thing because i have faith.
--  I'm interested in doing project collaboration.
--  Googling random stuff.
--  Reading books specially world building category. 
--  Listening classic music much more relaxing. 
--  I enjoy doing projects creating tools and libraries.
+```I can do all thing because i have GOD who gives me strength. ```
+
+```I'm interested in doing project collaboration.```
+
+```Googling random stuff.```
+
+```Reading books specially world building category. ```
+
+```Listening classic music much more relaxing. ```
+
+```I enjoy doing projects creating tools and libraries.```
 #### What to learn more:
 
 ![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Python&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/--green?style=?style=flat&logo=javascript&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/--green?style=?style=flat&logo=javascript&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Cplusplus&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![C Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=C&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Csharp&logoColor=white)
 ![Ruby Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Ruby&logoColor=white)
-![Dart Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Dart&logoColor=white)
 ![Unix Badge](https://img.shields.io/badge/-Unix-black?style=?style=flat&logo=Unix&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/--orange?style=?style=flat&logo=Git&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/--violet?style=?style=flat&logo=Heroku&logoColor=white)
@@ -26,3 +31,11 @@
 ![MySQL Badge](https://img.shields.io/badge/--white?style=?style=flat&logo=MySQL&logoColor=blue)
 ![Mongodb Badge](https://img.shields.io/badge/--darkgreen?style=?style=flat&logo=Mongodb&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/--white?style=?style=flat&logo=Android&logoColor=darkgreen)
+![Dart Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Flutter&logoColor=white)
+![Busybox Badge](https://img.shields.io/badge/-Busybox-black?style=?style=flat&logo=Busybox&logoColor=white)
+![Django Badge](https://img.shields.io/badge/-blue?style=?style=flat&logo=Django&logoColor=white)
+![VScode Badge](https://img.shields.io/badge/--white?style=?style=flat&logo=visualstudiocode&logoColor=blue)
+![SQLite](https://img.shields.io/badge/-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Express.js](https://img.shields.io/badge/-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Sublime Text](https://img.shields.io/badge/-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
