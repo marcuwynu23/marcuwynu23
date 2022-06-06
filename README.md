@@ -3,14 +3,12 @@
 # Hello There. Friend.
 
 #### About Me:
-```java
-@@ I can do all thing because i have faith.
-@@ I'm interested in doing project collaboration.
-@@ Googling random stuff.
-@@ Reading books specially world building category. 
-@@ Listening classic music much more relaxing. 
-@@ I enjoy doing projects creating tools and libraries.
-```
+-  I can do all thing because i have faith.
+-  I'm interested in doing project collaboration.
+-  Googling random stuff.
+-  Reading books specially world building category. 
+-  Listening classic music much more relaxing. 
+-  I enjoy doing projects creating tools and libraries.
 #### What to learn more:
 
 ![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&logoColor=white)
