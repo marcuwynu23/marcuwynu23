@@ -1,19 +1,6 @@
 ![Banner](banner.jpg)
 
 # Hello There. Friend.
-
-#### About Me:
-```I can do all thing because i have GOD who gives me strength. ```
-
-```I'm interested in doing project collaboration.```
-
-```Googling random stuff.```
-
-```Reading books specially world building category. ```
-
-```Listening classic music much more relaxing. ```
-
-```I enjoy doing projects and the same time learning by creating tools,templates and libraries.```
 #### What to learn more:
 
 ![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&logoColor=white)
@@ -39,3 +26,17 @@
 ![SQLite](https://img.shields.io/badge/-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Sublime Text](https://img.shields.io/badge/-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
+
+#### About Me:
+- I can do all thing because i have GOD who gives me strength.
+
+- I'm interested in doing project collaboration.
+
+- Googling random stuff.
+
+- Reading books specially world building category.
+
+- Listening classic music much more relaxing.
+
+- I enjoy doing projects and the same time learning by creating tools,templates and libraries.
+
