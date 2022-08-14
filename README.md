@@ -19,7 +19,7 @@
 
 
   
-#### What to learn more:
+#### Want to learn more:
 
 ![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Python&logoColor=white)
