@@ -19,7 +19,7 @@
 
 
   
-#### Want to learn more:
+#### Technology i encountered and Want to learn more:
 
 ![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Python&logoColor=white)
@@ -45,6 +45,10 @@
 ![Express.js](https://img.shields.io/badge/-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Sublime Text](https://img.shields.io/badge/-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
 
+#### My Sites:
+- [ Portfolio](https://marcuwynu23.github.io)
+- [ Blogs](https://marcuwynu23.hashnode.dev/)
+- [ Vlogs]()
 
 <div align="left">
   <a href="https://github.com/marcuwynu23">
