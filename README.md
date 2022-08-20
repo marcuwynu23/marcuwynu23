@@ -16,7 +16,17 @@
 
 - I enjoy doing projects and the same time learning by creating tools,templates and libraries.
     
+#### My Sites:
+- [ My Portfolio](https://marcuwynu23.github.io)
+- [ My Blogs](https://marcuwynu23.hashnode.dev/)
+- [ My Vlogs]()
+- [ My Gists](https://gist.github.com/marcuwynu23)
 
+<div align="left">
+  <a href="https://github.com/marcuwynu23">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&langs_count=6&layout=compact&theme=dark"/>
+</div>
 
   
 #### Technology i encountered and Want to learn more:
@@ -45,14 +55,4 @@
 ![Express.js](https://img.shields.io/badge/-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Sublime Text](https://img.shields.io/badge/-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
 
-#### My Sites:
-- [ My Portfolio](https://marcuwynu23.github.io)
-- [ My Blogs](https://marcuwynu23.hashnode.dev/)
-- [ My Vlogs]()
-- [ My Gist](https://gist.github.com/marcuwynu23)
 
-<div align="left">
-  <a href="https://github.com/marcuwynu23">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&langs_count=6&layout=compact&theme=dark"/>
-</div>
