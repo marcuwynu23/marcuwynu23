@@ -46,9 +46,10 @@
 ![Sublime Text](https://img.shields.io/badge/-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
 
 #### My Sites:
-- [ Portfolio](https://marcuwynu23.github.io)
-- [ Blogs](https://marcuwynu23.hashnode.dev/)
-- [ Vlogs]()
+- [ My Portfolio](https://marcuwynu23.github.io)
+- [ My Blogs](https://marcuwynu23.hashnode.dev/)
+- [ My Vlogs]()
+- [ My Gist](https://gist.github.com/marcuwynu23)
 
 <div align="left">
   <a href="https://github.com/marcuwynu23">
