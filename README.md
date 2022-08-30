@@ -1,8 +1,11 @@
+
 ![Banner](banner.jpg)
 
 # Hello There. Friend.
 
-    
+
+
+
 #### About Me:
 - I can do all thing because i have GOD who gives me strength.
 
@@ -19,14 +22,9 @@
 #### My Sites:
 - [ My Portfolio](https://marcuwynu23.github.io)
 - [ My Blogs](https://marcuwynu23.hashnode.dev/)
-- [ My Vlogs]()
-- [ My Gists](https://gist.github.com/marcuwynu23)
+- [ My Vlogs](https://www.youtube.com/channel/UCCivD4pBNUeWH8-HwM7rR2w)
+- [ My Snippets](https://gist.github.com/marcuwynu23)
 
-<div align="left">
-  <a href="https://github.com/marcuwynu23">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&langs_count=6&layout=compact&theme=dark"/>
-</div>
 
   
 #### Technology i encountered and Want to learn more:
@@ -55,4 +53,9 @@
 ![Express.js](https://img.shields.io/badge/-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Sublime Text](https://img.shields.io/badge/-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
 
+<div align="left">
+  <a href="https://github.com/marcuwynu23">
+  <img width="430em" height="130em" src="https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
+  <img width="430em" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&langs_count=6&layout=compact&theme=dark"/>
+</div>
 
