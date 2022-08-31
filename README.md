@@ -3,8 +3,12 @@
 
 # Hello There. Friend.
 
-
-
+    
+#### My Sites:
+[Portfolio](https://marcuwynu23.github.io)
+[Blogs](https://marcuwynu23.hashnode.dev/)
+[Vlogs](https://www.youtube.com/channel/UCCivD4pBNUeWH8-HwM7rR2w)
+[Snippets](https://gist.github.com/marcuwynu23)
 
 #### About Me:
 - I can do all thing because i have GOD who gives me strength.
@@ -18,18 +22,12 @@
 - Listening classic music much more relaxing.
 
 - I enjoy doing projects and the same time learning by creating tools,templates and libraries.
-    
-#### My Sites:
-- [ My Portfolio](https://marcuwynu23.github.io)
-- [ My Blogs](https://marcuwynu23.hashnode.dev/)
-- [ My Vlogs](https://www.youtube.com/channel/UCCivD4pBNUeWH8-HwM7rR2w)
-- [ My Snippets](https://gist.github.com/marcuwynu23)
 
 
   
 #### Technology i encountered and Want to learn more:
 
-![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&logoColor=white)
+![Java Badge](https://img.shields.io/badge/--red?style=?style=flat&logo=Java&label=Java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Python&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/--green?style=?style=flat&logo=javascript&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/--blue?style=?style=flat&logo=Cplusplus&logoColor=white)
