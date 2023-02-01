@@ -1,6 +1,7 @@
+![Logo](https://github.com/marcuwynu23/marcuwynu23/blob/main/banner.jpg)
 
-[Portfolio](https://marcuwynu23.github.io)
-[Snippets](https://gist.github.com/marcuwynu23)
+- Website: https://marcuwynu23.github.io
+- Snippets: https://gist.github.com/marcuwynu23
 
 #### About Me:
 - I can do all thing because i have GOD who gives me strength.
