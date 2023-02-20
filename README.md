@@ -10,6 +10,12 @@ I dream of using my programming skills to create tools and solutions that can ma
 
 Apart from programming, I also love to read novels and manga with a focus on world-building. Exploring different fictional worlds inspires me to think creatively and imagine new possibilities. 
 
+
+Here are some of my best tools and projects:
+
+-  [Just Utility](https://github.com/marcuwynu23/just-utility) - A set of commandline utilities to help in software development in windows
+-  [AutoCLI](https://github.com/marcuwynu23/autocli) - A Terminal Automation Tool for fast development
+
 Here are some links to learn more about me and my work:
 - Website: https://marcuwynu23.github.io
 - Portfolio: https://marcuwynu23.github.io/portfolio
