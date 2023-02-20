@@ -23,3 +23,11 @@ Here are some links to learn more about me and my work:
 
 Feel free to explore my repositories and check out my portfolio to see some of the projects I have worked on. If you have any questions or feedback, don't hesitate to reach out to me. Thank you for visiting my page!
 
+
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&hide=TeX&layout=compact&theme=dark)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcuwynu23.marcuwynu23)
+
