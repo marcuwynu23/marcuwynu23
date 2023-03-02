@@ -15,6 +15,7 @@ Here are some of my best tools and projects:
 
 -  [Just Utility](https://github.com/marcuwynu23/just-utility) - A set of commandline utilities to help in software development in windows
 -  [AutoCLI](https://github.com/marcuwynu23/autocli) - A Terminal Automation Tool for fast development
+-  [bahagi](https:/github.com/marcuwynu23/bahagi) - A scraping tool to get website table data and convert into a file
 
 Here are some links to learn more about me and my work:
 - Website: https://marcuwynu23.github.io
