@@ -18,6 +18,7 @@ Here are some of my best tools and projects:
 -  [bahagi](https:/github.com/marcuwynu23/bahagi) - A scraping tool to get website table data and convert into a file
 -  [stgen-cli](https:/github.com/marcuwynu23/stgen-cli) - A commandline tool or a program use to generate static html file
 -  [sdir](https://github.com/marcuwynu23/sdir) - commandline tool to save current directory and show list of save directory for future use.
+-  [justutil-jcinf](https:/github.com/marcuwynu23/justutil-jcinf) - Tool use to get java Class fields, methods and other class information
 
 Here are some links to learn more about me and my work:
 - Website: https://marcuwynu23.github.io
