@@ -23,9 +23,9 @@ Apart from programming, I also love to read novels and manga with a focus on wor
 -  **[ngita](https://github.com/marcuwynu23/ngita)** - GUI Tools for easy searching queries in different searching engines and social media sites
 
 🕸️ Here are some links to learn more about me and my work:
-- Website: https://marcuwynu23.github.io
-- Portfolio: https://marcuwynu23.github.io/portfolio
-- Snippets: https://gist.github.com/marcuwynu23
+- **Website:** https://marcuwynu23.github.io
+- **Portfolio:** https://marcuwynu23.github.io/portfolio
+- **Snippets:** https://gist.github.com/marcuwynu23
 
 Feel free to explore my repositories and check out my portfolio to see some of the projects I have worked on. If you have any questions or feedback, don't hesitate to reach out to me. Thank you for visiting my page!
 
