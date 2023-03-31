@@ -1,4 +1,4 @@
- ![Logo](https://github.com/blob/main/banner.jpg)
+
 
 # Welcome to my **GitHub** account!
 
