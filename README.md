@@ -2,11 +2,7 @@
 
 # Welcome to my **GitHub** account!
 
-<i>My name is&nbsp;**Mark Wayne Menorca**</i>, and I am a software tool developer and web developer passionate about continuously improving my skills. As you can see from my portfolio, I have experience working on various projects, including creating tools, templates, and libraries, as well as developing web applications.\*
-
-*I dream of using my programming skills to create tools and solutions that can make the world a better place. I believe that technology has the power to transform lives and solve some of the world's most pressing issues. I'm excited about the opportunities that lie ahead, and I'm constantly working to improve my skills so that I can contribute to meaningful projects.*
-
-*Apart from programming, I also love to read novels and manga with a focus on world-building. Exploring different fictional worlds inspires me to think creatively and imagine new possibilities.*
+<i>My name is&nbsp;**Mark Wayne Menorca**</i>, a software and web developer. I'm passionate about improving my skills and creating tools that can make a difference in the world. When I'm not coding, I enjoy reading novels and manga that fuel my imagination.
 
 🙋Here are some of my best tools and projects:
 
