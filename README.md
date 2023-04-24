@@ -14,7 +14,7 @@
 
 🕸️ Here are some links to learn more about me and my work:
 
-* **Portfolio:** [https://marcuwynu23.github.io/portfolio](https://marcuwynu23.github.io)
+* **Portfolio:** [https://marcuwynu23.github.io](https://marcuwynu23.github.io)
 
 Feel free to explore my repositories and check out my portfolio to see some of the projects I have worked on. If you have any questions or feedback, don't hesitate to reach out to me. Thank you for visiting my page!
 
