@@ -11,9 +11,6 @@
 * <b>[bahagi](https:/github.com/bahagi)</b> \- A scraping tool to get website table data and convert into a file
 * <b>[stgen-cli](https:/github.com/stgen-cli)</b> \- A commandline tool or a program use to generate static html file
 * <b>[sdir](https://github.com/sdir)</b> \- commandline tool to save current directory and show list of save directory for future use\.
-* <b>[what-port-is](https://github.com/what-port-is)</b> \- a commandline tools to find information about the network port
-* <b>[justutil-jcinf](https:/github.com/justutil-jcinf)</b> \- Tool use to get java Class fields\, methods and other class information
-* <b>[ngita](https://github.com/ngita)</b> \- GUI Tools for easy searching queries in different searching engines and social media sites
 
 🕸️ Here are some links to learn more about me and my work:
 
