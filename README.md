@@ -2,7 +2,7 @@
 
 # Welcome to my **GitHub** account!
 
-<i>My name is&nbsp;**Mark Wayne Menorca**</i>, a software and web developer. I'm passionate about improving my skills and creating tools that can make a difference in the world. When I'm not coding, I enjoy reading novels and manga that fuel my imagination.
+<i>My name is&nbsp;**Mark Wayne Menorca**</i>, a software tool developer and  web developer. I'm passionate about improving my skills and creating tools that can make a difference in the world. When I'm not coding, I enjoy reading novels and manga that fuel my imagination.
 
 🙋Here are some of my best tools and projects:
 
