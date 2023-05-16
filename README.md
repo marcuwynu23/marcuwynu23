@@ -7,7 +7,7 @@
 🙋Here are some of my best tools and projects:
 
 * <b>[Just Utility](https://github.com/just-utility)</b> \- A set of commandline utilities to help in software development in windows
-* <b>[AutoCLI](https://github.com/autocli)</b> \- A Terminal Automation Tool for fast development
+* <b>[AutoCLI](https://github.com/marcuwynu23/AutoCLI)</b> \- A Terminal Automation Tool for fast development
 * <b>[bahagi](https:/github.com/bahagi)</b> \- A scraping tool to get website table data and convert into a file
 * <b>[stgen-cli](https:/github.com/stgen-cli)</b> \- A commandline tool or a program use to generate static html file
 * <b>[sdir](https://github.com/sdir)</b> \- commandline tool to save current directory and show list of save directory for future use\.
