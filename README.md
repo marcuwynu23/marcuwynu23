@@ -1,26 +1,50 @@
+# Hello, I'm Mark Wayne Menorca
 
+Software Tool Developer • Web Developer
 
-# Welcome to my **GitHub** account!
+*"Maestros of creation evoke marvels from the unimagined."*
 
-<i>My name is&nbsp;**Mark Wayne Menorca**</i>, a software tool developer and  web developer. I'm passionate about improving my skills and creating tools that can make a difference in the world. When I'm not coding, I enjoy reading novels and manga that fuel my imagination.
+Developers can unlock their potential for innovation in software development by becoming skilled creators, using their creativity, imagination, and technical expertise to come up with extraordinary ideas and explore new technologies. This emphasizes the importance of creativity and innovation in the field, inspiring developers to push themselves to create marvels from the unimagined.
 
-🙋Here are some of my best tools and projects:
+🛠️ Technologies I work with:
 
-* <b>[Just Utility](https://github.com/just-utility)</b> \- A set of commandline utilities to help in software development in windows
-* <b>[AutoCLI](https://github.com/marcuwynu23/AutoCLI)</b> \- A Terminal Automation Tool for fast development
-* <b>[bahagi](https:/github.com/bahagi)</b> \- A scraping tool to get website table data and convert into a file
-* <b>[stgen-cli](https:/github.com/stgen-cli)</b> \- A commandline tool or a program use to generate static html file
-* <b>[sdir](https://github.com/sdir)</b> \- commandline tool to save current directory and show list of save directory for future use\.
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Linux/Unix](https://img.shields.io/badge/-Linux%2FUnix-FCC624?logo=linux&logoColor=black)
 
-🕸️ Here are some links to learn more about me and my work:
+🌐 Web Frameworks I work with:
 
-* **Portfolio:** [https://marcuwynu23.github.io](https://marcuwynu23.github.io)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 
-Feel free to explore my repositories and check out my portfolio to see some of the projects I have worked on. If you have any questions or feedback, don't hesitate to reach out to me. Thank you for visiting my page!
+🛠️ Tools I use:
 
-## 📈 Stats
+![Nmap](https://img.shields.io/badge/-Nmap-ED8B00?logo=nmap&logoColor=black)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&hide=TeX&layout=compact&theme=dark)
+🛠️ Check out some of my projects:
+
+- [Just Utility](https://github.com/just-utility) - Command-line utilities for software development on Windows.
+- [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
+- [bahagi](https://github.com/bahagi) - Scraping tool to extract website table data into a file.
+- [stgen-cli](https://github.com/stgen-cli) - Command-line tool to generate static HTML files.
+- [sdir](https://github.com/sdir) - Command-line tool to save and manage directories.
+
+🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
+
+📈 GitHub Stats:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&hide_title=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&hide=TeX&layout=compact&theme=dark&hide_border=true)
+
+👋 Thanks for visiting! Feel free to connect and reach out.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcuwynu23.marcuwynu23)
