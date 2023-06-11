@@ -1,3 +1,6 @@
+
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 # Hello, I'm Mark Wayne Menorca
 
 Software Tool Developer • Web Developer
@@ -29,14 +32,16 @@ Developers can unlock their potential for innovation in software development by 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![Busybox](https://img.shields.io/badge/-Busybox-000000?logo=busybox&logoColor=white)
+![Arc](https://img.shields.io/badge/-Arc-FF9900?logo=rest&logoColor=black)
 
 🛠️ Check out some of my projects:
 
-- [Just Utility](https://github.com/just-utility) - Command-line utilities for software development on Windows.
-- [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
-- [bahagi](https://github.com/bahagi) - Scraping tool to extract website table data into a file.
-- [stgen-cli](https://github.com/stgen-cli) - Command-line tool to generate static HTML files.
-- [sdir](https://github.com/sdir) - Command-line tool to save and manage directories.
+- [![Project1](https://via.placeholder.com/15/FF0000/000000?text=+)](https://github.com/just-utility) [Just Utility](https://github.com/just-utility) - Command-line utilities for software development on Windows.
+- [![Project2](https://via.placeholder.com/15/00FF00/000000?text=+)](https://github.com/marcuwynu23/AutoCLI) [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
+- [![Project3](https://via.placeholder.com/15/0000FF/000000?text=+)](https://github.com/bahagi) [bahagi](https://github.com/bahagi) - Scraping tool to extract website table data into a file.
+- [![Project4](https://via.placeholder.com/15/FF00FF/000000?text=+)](https://github.com/stgen-cli) [stgen-cli](https://github.com/stgen-cli) - Command-line tool to generate static HTML files.
+- [![Project5](https://via.placeholder.com/15/FFFF00/000000?text=+)](https://github.com/sdir) [sdir](https://github.com/sdir) - Command-line tool to save and manage directories.
 
 🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
 
