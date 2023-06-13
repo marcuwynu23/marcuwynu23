@@ -7,6 +7,13 @@ Software Tool Developer • Web Developer
 
 Developers can unlock their potential for innovation in software development by becoming skilled creators, using their creativity, imagination, and technical expertise to come up with extraordinary ideas and explore new technologies. This emphasizes the importance of creativity and innovation in the field, inspiring developers to push themselves to create marvels from the unimagined.
 
+📞 Contact me: [marcuwynu23@outlook.com](mailto:marcuwynu23@outlook.com)
+
+💼 Available for hire as a remote:
+ - Web full-stack Developer
+ - Tool CLI Developer
+ - Programming Tutor
+
 🛠️ Technologies I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
