@@ -24,10 +24,16 @@ Developers can unlock their potential for innovation in software development by 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Linux/Unix](https://img.shields.io/badge/-Linux%2FUnix-FCC624?logo=linux&logoColor=black)
 
-🌐 Web Frameworks I work with:
+🌐 Web Tools and Frameworks I work with:
 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-green?logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-blue?logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4fae8b?logo=vue.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-01cfed?logo=react&logoColor=white)
+![Nunjucks](https://img.shields.io/badge/-Nunjucks-1c581a?logo=nunjucks&logoColor=white)
+![Jinja](https://img.shields.io/badge/-Jinja-black?logo=jinja&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/-Tailwind-6686f2?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
 
 🛠️ Tools I use:
 
