@@ -27,7 +27,8 @@ Developers can unlock their potential for innovation in software development by 
 🌐 Web Frameworks I work with:
 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-blue?logo=flask&logoColor=white)
+
 🛠️ Tools I use:
 
 ![Nmap](https://img.shields.io/badge/-Nmap-ED8B00?logo=nmap&logoColor=black)
