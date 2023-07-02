@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcuwynu23.marcuwynu23)
 
 # Hello, I'm Mark Wayne Menorca
 
@@ -7,14 +8,8 @@ Software Tool Developer • Web Developer • Prototype Developer
 
 Developers can unlock their potential for innovation in software development by becoming skilled creators, using their creativity, imagination, and technical expertise to come up with extraordinary ideas and explore new technologies. This emphasizes the importance of creativity and innovation in the field, inspiring developers to push themselves to create marvels from the unimagined.
 
-📞 Contact me: [marcuwynu23@outlook.com](mailto:marcuwynu23@outlook.com)
 
-💼 Available for hire as a remote:
- - Web full-stack Developer
- - Tool CLI Developer
- - Programming Tutor
-
-🛠️ Technologies I work with:
+### 🛠️ Technologies I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -24,7 +19,7 @@ Developers can unlock their potential for innovation in software development by 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Linux/Unix](https://img.shields.io/badge/-Linux%2FUnix-FCC624?logo=linux&logoColor=black)
 
-🌐 Web Tools and Frameworks I work with:
+### 🌐 Web Tools and Frameworks I work with:
 
 ![Express.js](https://img.shields.io/badge/-Express.js-green?logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-blue?logo=flask&logoColor=white)
@@ -35,7 +30,7 @@ Developers can unlock their potential for innovation in software development by 
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-6686f2?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
 
-🛠️ Tools I use:
+### 🛠️ Tools I use:
 
 ![Nmap](https://img.shields.io/badge/-Nmap-ED8B00?logo=nmap&logoColor=black)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
@@ -44,7 +39,7 @@ Developers can unlock their potential for innovation in software development by 
 ![Busybox](https://img.shields.io/badge/-Busybox-000000?logo=busybox&logoColor=white)
 ![Arc](https://img.shields.io/badge/-Arc-FF9900?logo=rest&logoColor=black)
 
-🛠️ Check out some of my projects:
+### 🛠️ Check out some of my projects:
 
 - [![Project1](https://via.placeholder.com/15/FF0000/000000?text=+)](https://github.com/just-utility) [Just Utility](https://github.com/marcuwynu23/just-utility) - Command-line utilities for software development on Windows.
 - [![Project2](https://via.placeholder.com/15/00FF00/000000?text=+)](https://github.com/marcuwynu23/AutoCLI) [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
@@ -52,13 +47,15 @@ Developers can unlock their potential for innovation in software development by 
 - [![Project4](https://via.placeholder.com/15/FF00FF/000000?text=+)](https://github.com/stgen-cli) [stgen-cli](https://github.com/marcuwynu23/stgen-cli) - Command-line tool to generate static HTML files.
 - [![Project5](https://via.placeholder.com/15/FFFF00/000000?text=+)](https://github.com/sdir) [sdir](https://github.com/marcuwynu23/sdir) - Command-line tool to save and manage directories.
 
-🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
+### 🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
 
-📈 GitHub Stats:
+📞 Contact me: [marcuwynu23@outlook.com](mailto:marcuwynu23@outlook.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcuwynu23&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&hide_title=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuwynu23&hide=TeX&layout=compact&theme=dark&hide_border=true)
-
+💼 Available for hire as a remote:
+ - Web full-stack Developer
+ - Tool CLI Developer
+ - Programming Tutor
+ - 
 👋 Thanks for visiting! Feel free to connect and reach out.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcuwynu23.marcuwynu23)
+
