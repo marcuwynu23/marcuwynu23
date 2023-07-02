@@ -7,11 +7,8 @@
 
 
 ### Hello, *I'm Mark Wayne Menorca*
-<hr>
 
 ##### Software Tool Developer • Web Developer • Prototype Developer 
-
-<hr>
 
 ##### 🛠️ Technologies I work with:
 
