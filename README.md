@@ -1,14 +1,17 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcuwynu23.marcuwynu23)
 
-*"Maestros of creation evoke marvels from the unimagined."*
+### "Maestros of creation evoke marvels from the unimagined."
 
-Developers can unlock their potential for innovation in software development by becoming skilled creators, using their creativity, imagination, and technical expertise to come up with extraordinary ideas and explore new technologies. This emphasizes the importance of creativity and innovation in the field, inspiring developers to push themselves to create marvels from the unimagined.
+*Developers can unlock their potential for innovation in software development by becoming skilled creators, using their creativity, imagination, and technical expertise to come up with extraordinary ideas and explore new technologies. This emphasizes the importance of creativity and innovation in the field, inspiring developers to push themselves to create marvels from the unimagined.*
 
 
 
 ### Hello, *I'm Mark Wayne Menorca*
+<hr>
 
-Software Tool Developer • Web Developer • Prototype Developer 
+##### Software Tool Developer • Web Developer • Prototype Developer 
+
+<hr>
 
 ##### 🛠️ Technologies I work with:
 
@@ -48,11 +51,11 @@ Software Tool Developer • Web Developer • Prototype Developer
 
 ##### 🛠️ Check out some of my projects:
 
-- [![Project1](https://via.placeholder.com/15/FF0000/000000?text=+)](https://github.com/just-utility) [Just Utility](https://github.com/marcuwynu23/just-utility) - Command-line utilities for software development on Windows.
-- [![Project2](https://via.placeholder.com/15/00FF00/000000?text=+)](https://github.com/marcuwynu23/AutoCLI) [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
-- [![Project3](https://via.placeholder.com/15/0000FF/000000?text=+)](https://github.com/bahagi) [bahagi](https://github.com/marcuwynu23/bahagi) - Scraping tool to extract website table data into a file.
-- [![Project4](https://via.placeholder.com/15/FF00FF/000000?text=+)](https://github.com/stgen-cli) [stgen-cli](https://github.com/marcuwynu23/stgen-cli) - Command-line tool to generate static HTML files.
-- [![Project5](https://via.placeholder.com/15/FFFF00/000000?text=+)](https://github.com/sdir) [sdir](https://github.com/marcuwynu23/sdir) - Command-line tool to save and manage directories.
+- ##### [![Project1](https://via.placeholder.com/15/FF0000/000000?text=+)](https://github.com/just-utility) [Just Utility](https://github.com/marcuwynu23/just-utility) - Command-line utilities for software development on Windows.
+- ##### [![Project2](https://via.placeholder.com/15/00FF00/000000?text=+)](https://github.com/marcuwynu23/AutoCLI) [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
+- ##### [![Project3](https://via.placeholder.com/15/0000FF/000000?text=+)](https://github.com/bahagi) [bahagi](https://github.com/marcuwynu23/bahagi) - Scraping tool to extract website table data into a file.
+- ##### [![Project4](https://via.placeholder.com/15/FF00FF/000000?text=+)](https://github.com/stgen-cli) [stgen-cli](https://github.com/marcuwynu23/stgen-cli) - Command-line tool to generate static HTML files.
+- ##### [![Project5](https://via.placeholder.com/15/FFFF00/000000?text=+)](https://github.com/sdir) [sdir](https://github.com/marcuwynu23/sdir) - Command-line tool to save and manage directories.
 
 ##### 🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
 
