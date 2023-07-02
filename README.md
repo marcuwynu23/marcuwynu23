@@ -10,29 +10,34 @@ Developers can unlock their potential for innovation in software development by 
 
 Software Tool Developer • Web Developer • Prototype Developer 
 
+##### 🛠️ Technologies I work with:
 
-🛠️ Technologies I work with:
+<div>
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
+</div>
+<br>
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Linux/Unix](https://img.shields.io/badge/-Linux%2FUnix-FCC624?logo=linux&logoColor=black)
 
-🌐 Web Tools and Frameworks I work with:
+##### 🌐 Web Tools and Frameworks I work with:
 
-![Express.js](https://img.shields.io/badge/-Express.js-green?logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-blue?logo=flask&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4fae8b?logo=vue.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-01cfed?logo=react&logoColor=white)
-![Nunjucks](https://img.shields.io/badge/-Nunjucks-1c581a?logo=nunjucks&logoColor=white)
-![Jinja](https://img.shields.io/badge/-Jinja-black?logo=jinja&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/-Tailwind-6686f2?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
+<div>
+<img background="#ffffff" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" />
+ <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
+</div>
+<br>
 
-🛠️ Tools I use:
+##### 🛠️ Tools I use:
 
 ![Nmap](https://img.shields.io/badge/-Nmap-ED8B00?logo=nmap&logoColor=black)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
@@ -41,7 +46,7 @@ Software Tool Developer • Web Developer • Prototype Developer
 ![Busybox](https://img.shields.io/badge/-Busybox-000000?logo=busybox&logoColor=white)
 ![Arc](https://img.shields.io/badge/-Arc-FF9900?logo=rest&logoColor=black)
 
-🛠️ Check out some of my projects:
+##### 🛠️ Check out some of my projects:
 
 - [![Project1](https://via.placeholder.com/15/FF0000/000000?text=+)](https://github.com/just-utility) [Just Utility](https://github.com/marcuwynu23/just-utility) - Command-line utilities for software development on Windows.
 - [![Project2](https://via.placeholder.com/15/00FF00/000000?text=+)](https://github.com/marcuwynu23/AutoCLI) [AutoCLI](https://github.com/marcuwynu23/AutoCLI) - Terminal automation tool for fast development.
@@ -49,15 +54,15 @@ Software Tool Developer • Web Developer • Prototype Developer
 - [![Project4](https://via.placeholder.com/15/FF00FF/000000?text=+)](https://github.com/stgen-cli) [stgen-cli](https://github.com/marcuwynu23/stgen-cli) - Command-line tool to generate static HTML files.
 - [![Project5](https://via.placeholder.com/15/FFFF00/000000?text=+)](https://github.com/sdir) [sdir](https://github.com/marcuwynu23/sdir) - Command-line tool to save and manage directories.
 
-🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
+##### 🌐 Explore my work and portfolio: [marcuwynu23.github.io](https://marcuwynu23.github.io)
 
-📞 Contact me: [marcuwynu23@outlook.com](mailto:marcuwynu23@outlook.com)
+##### 📞 Contact me: [marcuwynu23@outlook.com](mailto:marcuwynu23@outlook.com)
 
-💼 Available for hire as a remote:
+##### 💼 Available for hire as a remote:
  - Web full-stack Developer
  - Tool CLI Developer
  - Programming Tutor
- - 
-👋 Thanks for visiting! Feel free to connect and reach out.
+
+##### 👋 Thanks for visiting! Feel free to connect and reach out.
 
 
