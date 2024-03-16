@@ -3,7 +3,6 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/61897063?v=4"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcuwynu23/" target="_blank">
@@ -27,9 +26,11 @@
 
 ###
 
-<p align="left">Mark Wayne Menorca from Philippines<br><br>📚 **Learning:**<br>   - Currently exploring command-line skills.<br>   - Delving into psychology in my spare time.<br>   - I love learning new things!<br><br>⚡ **Free time activities:**<br>   - Updating and enhancing my command-line proficiency.<br>   - Reading psychology books to broaden my understanding.</p>
+<p align="left">Mark Wayne Menorca from Philippines<br><br>
+ 
+📚 **Learning:**<br>   - Currently exploring command-line skills.<br>   - Delving into psychology in my spare time.<br>   - I love learning new things!<br><br>
+⚡ **Free time activities:**<br>   - Updating and enhancing my command-line proficiency.<br>   - Reading psychology books to broaden my understanding.</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -141,18 +142,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
 ###
 # 📊 GitHub Stats:
