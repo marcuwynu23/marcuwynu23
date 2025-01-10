@@ -1,13 +1,10 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋👋</h1>
 
 ###
-
-
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
 <p align="left">Mark Wayne Menorca from Philippines<br><br>
  
 📚 **Learning:**<br>   - Currently exploring command-line skills.<br>   - Delving into psychology in my spare time.<br>   - I love learning new things!<br><br>
