@@ -8,7 +8,7 @@
 
 <h1 align="center">Mark Wayne B. Menorca</h1>
 
-<h3 align="center">Full-Stack Software Engineer & DevOps Engineer</h3>
+<h3 align="center">Software Engineer | DevOps | Open Source</h3>
 
 <p align="center">
 <strong>Mark Wayne Menorca</strong> helps teams <strong>solve technical problems</strong> and move toward <strong>clearer, more reliable systems</strong>. He builds internal platforms, APIs, and automation so software ships safely and day-to-day work gets easier. He looks for ways to <strong>lower cost</strong> and <strong>alternative paths</strong> that still meet your goals. Based in the Philippines. Open to clients, product people, and engineering teams.
