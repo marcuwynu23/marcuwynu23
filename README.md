@@ -6,7 +6,7 @@
   <tr>
     <td align="center" width="100%">
 
-<h1 align="center">Mark Wayne B. Menorca</h1>
+<h1 align="center">Mark Wayne Menorca</h1>
 
 <h3 align="center">Software Engineer | DevOps | Open Source</h3>
 
