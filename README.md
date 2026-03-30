@@ -28,9 +28,9 @@
 
 ---
 
-## Professional highlights
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Professional highlights
 
-Highlights from professional work—internal platforms, shared services, and backend systems.
+Systems work that turns messy delivery into reliable releases—internal platforms, shared services, and backend infrastructure.
 
 | Project                                | Description                                                                                                                                                                          | Problem solved                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -43,9 +43,9 @@ Highlights from professional work—internal platforms, shared services, and bac
 
 ---
 
-## Services
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Services
 
-Works with clients and teams to ship and run software, teach others hands-on, build internal apps and developer tools, automate repetitive work, and deliver public websites or APIs when the project needs them. Details for each offer are in the table below.
+I help clients and teams ship and operate software with automation and reusable building blocks—plus hands-on training—so releases stay consistent and operations stay predictable. Details for each offer are in the table below.
 
 | Service                    | Description                                                                                                                                                                                                                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,9 +60,9 @@ _Want to talk? Use email above, or [Portfolio](https://marcuwynu.space), [digita
 
 ---
 
-## Open Source System Projects
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Open Source System Projects
 
-Selected public work. [See all repos →](https://github.com/marcuwynu23?tab=repositories)
+Selected public projects—apps and systems built to solve real workflow pain. [See all repos →](https://github.com/marcuwynu23?tab=repositories)
 
 | Project                                                 | Description                                                                                                                                                                                              | Goals                                                                                                                                      |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -75,9 +75,9 @@ Selected public work. [See all repos →](https://github.com/marcuwynu23?tab=rep
 
 ---
 
-## Developer tools
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Developer tools
 
-CLIs, libraries, and small utilities for automation, security checks, deploys, and day-to-day dev work. [See all repos →](https://github.com/marcuwynu23?tab=repositories)
+Reusable CLIs, libraries, and utilities for automation, security checks, deployments, and day-to-day developer work. [See all repos →](https://github.com/marcuwynu23?tab=repositories)
 
 | Tool                                                        | Description                                                                                                    | Goals                                                                                                                     |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -93,31 +93,42 @@ CLIs, libraries, and small utilities for automation, security checks, deploys, a
 
 ---
 
-## Project Templates
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Project Templates
 
-Starter templates and boilerplates I publish so you can start faster. [See all templates on GitHub](https://github.com/marcuwynu23?tab=repositories&q=&type=template)
+Ship faster with starter templates and boilerplates designed from a problem-solver mindset.
 
-| Template                                                                                                                    | Description                                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[windows-cpp-c-dll-template](https://github.com/marcuwynu23/windows-cpp-c-dll-template)**                                 | Minimal project template for a Windows DLL in C or C++                                                                                                                                     |
-| **[wxPython-project-template](https://github.com/marcuwynu23/wxPython-project-template)**                                   | A minimal, production-oriented starter pack for desktop applications built with wxPython and managed with uv.                                                                              |
-| **[golang-web-mvc-project-template](https://github.com/marcuwynu23/golang-web-mvc-project-template)**                       | a golang web project template                                                                                                                                                              |
-| **[cli-go-project-template](https://github.com/marcuwynu23/cli-go-project-template)**                                       | A console/cli project template for building command-line applications in Go with Cobra                                                                                                     |
-| **[cpp-cli-project-template](https://github.com/marcuwynu23/cpp-cli-project-template)**                                     | A project template for building cross-platform console/cli applications in C++ using CLI11, and vcpkg for dependency management.                                                           |
-| **[cpp-gui-project-template](https://github.com/marcuwynu23/cpp-gui-project-template)**                                     | A project template for building cross-platform GUI applications in C++ using Dear ImGui, GLFW, and vcpkg for dependency management.                                                        |
-| **[monorepo-project-template](https://github.com/marcuwynu23/monorepo-project-template)**                                   | A monorepo project template using PNPM Workspaces and Turborepo. This repository includes a frontend, backend, and shared UI component library.                                            |
-| **[rust-axum-web-template](https://github.com/marcuwynu23/rust-axum-web-template)**                                         | This Repository is a project template for creating rust web application using axum                                                                                                         |
-| **[ionic-react-project-template](https://github.com/marcuwynu23/ionic-react-project-template)**                             | Project Template for Ionic React                                                                                                                                                           |
-| **[nest-api-module-based-project-template](https://github.com/marcuwynu23/nest-api-module-based-project-template)**         | A project template for building API applications using Nest.js. It provides a structured and modular approach to developing APIs by organizing code into reusable and independent modules. |
-| **[flask-web-app-project-template](https://github.com/marcuwynu23/flask-web-app-project-template)**                         | Web Application Project Template using Flask Python                                                                                                                                        |
-| **[jekyll-website-project-template](https://github.com/marcuwynu23/jekyll-website-project-template)**                       | A Jekyll project template is a starting point for building static websites using Jekyll, a popular static site generator.                                                                  |
-| **[laravel-inertial-vue3-web-project-template](https://github.com/marcuwynu23/laravel-inertial-vue3-web-project-template)** | A Laravel Project Template with Inertia Vue3                                                                                                                                               |
-| **[java-peculiar-project-template](https://github.com/marcuwynu23/java-peculiar-project-template)**                         | Native Desktop Application Project Template using Swing Java                                                                                                                               |
+I build these to remove repeated setup and deployment friction so you can focus on features, not glue code. If you like **DevOps automation**, consistent **project structure**, and **reproducible workflows**, these templates will feel familiar.
+
+[See all templates on GitHub](https://github.com/marcuwynu23?tab=repositories&q=&type=template)
 
 ---
 
-## Support
+What they solve:
 
-If you want to support my works:
+- Fresh-project setup takes too long (env, scripts, structure)
+- Deploy/process steps vary from repo to repo
+- Teams need consistent conventions they can reuse
+
+Clone a template and start building—setup, scripts, and structure are already handled.
+
+---
+
+| Template                                                                                              | Description                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[windows-cpp-c-dll-template](https://github.com/marcuwynu23/windows-cpp-c-dll-template)**           | Minimal project template for a Windows DLL in C or C++                                                                                          |
+| **[wxPython-project-template](https://github.com/marcuwynu23/wxPython-project-template)**             | A minimal, production-oriented starter pack for desktop applications built with wxPython and managed with uv.                                   |
+| **[golang-web-mvc-project-template](https://github.com/marcuwynu23/golang-web-mvc-project-template)** | a golang web project template                                                                                                                   |
+| **[cli-go-project-template](https://github.com/marcuwynu23/cli-go-project-template)**                 | A console/cli project template for building command-line applications in Go with Cobra                                                          |
+| **[cpp-cli-project-template](https://github.com/marcuwynu23/cpp-cli-project-template)**               | A project template for building cross-platform console/cli applications in C++ using CLI11, and vcpkg for dependency management.                |
+| **[cpp-gui-project-template](https://github.com/marcuwynu23/cpp-gui-project-template)**               | A project template for building cross-platform GUI applications in C++ using Dear ImGui, GLFW, and vcpkg for dependency management.             |
+| **[monorepo-project-template](https://github.com/marcuwynu23/monorepo-project-template)**             | A monorepo project template using PNPM Workspaces and Turborepo. This repository includes a frontend, backend, and shared UI component library. |
+| **[rust-axum-web-template](https://github.com/marcuwynu23/rust-axum-web-template)**                   | This Repository is a project template for creating rust web application using axum                                                              |
+| **[flask-web-app-project-template](https://github.com/marcuwynu23/flask-web-app-project-template)**   | Web Application Project Template using Flask Python                                                                                             |
+
+---
+
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Support
+
+If my tools or templates saved you time, consider supporting maintenance:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynumarcu23)
