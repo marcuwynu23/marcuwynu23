@@ -93,6 +93,29 @@ CLIs, libraries, and small utilities for automation, security checks, deploys, a
 
 ---
 
+## Project Templates
+
+Starter templates and boilerplates I publish so you can start faster. [See all templates on GitHub](https://github.com/marcuwynu23?tab=repositories&q=&type=template)
+
+| Template                                                                                                                    | Description                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[windows-cpp-c-dll-template](https://github.com/marcuwynu23/windows-cpp-c-dll-template)**                                 | Minimal project template for a Windows DLL in C or C++                                                                                                                                     |
+| **[wxPython-project-template](https://github.com/marcuwynu23/wxPython-project-template)**                                   | A minimal, production-oriented starter pack for desktop applications built with wxPython and managed with uv.                                                                              |
+| **[golang-web-mvc-project-template](https://github.com/marcuwynu23/golang-web-mvc-project-template)**                       | a golang web project template                                                                                                                                                              |
+| **[cli-go-project-template](https://github.com/marcuwynu23/cli-go-project-template)**                                       | A console/cli project template for building command-line applications in Go with Cobra                                                                                                     |
+| **[cpp-cli-project-template](https://github.com/marcuwynu23/cpp-cli-project-template)**                                     | A project template for building cross-platform console/cli applications in C++ using CLI11, and vcpkg for dependency management.                                                           |
+| **[cpp-gui-project-template](https://github.com/marcuwynu23/cpp-gui-project-template)**                                     | A project template for building cross-platform GUI applications in C++ using Dear ImGui, GLFW, and vcpkg for dependency management.                                                        |
+| **[monorepo-project-template](https://github.com/marcuwynu23/monorepo-project-template)**                                   | A monorepo project template using PNPM Workspaces and Turborepo. This repository includes a frontend, backend, and shared UI component library.                                            |
+| **[rust-axum-web-template](https://github.com/marcuwynu23/rust-axum-web-template)**                                         | This Repository is a project template for creating rust web application using axum                                                                                                         |
+| **[ionic-react-project-template](https://github.com/marcuwynu23/ionic-react-project-template)**                             | Project Template for Ionic React                                                                                                                                                           |
+| **[nest-api-module-based-project-template](https://github.com/marcuwynu23/nest-api-module-based-project-template)**         | A project template for building API applications using Nest.js. It provides a structured and modular approach to developing APIs by organizing code into reusable and independent modules. |
+| **[flask-web-app-project-template](https://github.com/marcuwynu23/flask-web-app-project-template)**                         | Web Application Project Template using Flask Python                                                                                                                                        |
+| **[jekyll-website-project-template](https://github.com/marcuwynu23/jekyll-website-project-template)**                       | A Jekyll project template is a starting point for building static websites using Jekyll, a popular static site generator.                                                                  |
+| **[laravel-inertial-vue3-web-project-template](https://github.com/marcuwynu23/laravel-inertial-vue3-web-project-template)** | A Laravel Project Template with Inertia Vue3                                                                                                                                               |
+| **[java-peculiar-project-template](https://github.com/marcuwynu23/java-peculiar-project-template)**                         | Native Desktop Application Project Template using Swing Java                                                                                                                               |
+
+---
+
 ## Support
 
 If you want to support my works:
