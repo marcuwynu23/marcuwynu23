@@ -93,6 +93,16 @@ Reusable CLIs, libraries, and utilities for automation, security checks, deploym
 
 ---
 
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M3 21h18"/><path d="M5 21V7l7-4 7 4v14"/><path d="M9 9h6"/><path d="M9 13h6"/><path d="M9 17h6"/></svg>Organizations
+
+Organizations I build and maintain to publish focused tools, libraries, and platform work.
+
+| Organization | Focus | Link |
+| ------------ | ----- | ---- |
+| **mingledb** | File-based database tooling and related ecosystem projects. | [github.com/mingledb](https://github.com/mingledb) |
+
+---
+
 ## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Project Templates
 
 Ship faster with starter templates and boilerplates designed from a problem-solver mindset.
