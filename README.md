@@ -26,20 +26,6 @@
   </tr>
 </table>
 
----
-
-## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Professional highlights
-
-Systems work that turns messy delivery into reliable releases—internal platforms, shared services, and backend infrastructure.
-
-| Project                                | Description                                                                                                                                                                          | Problem solved                                                                                            |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| **Internal deployment platform (IDP)** | Central releases to bare-metal and VPS with GitHub-backed builds and safer rollouts.                                                                                                 | Manual, inconsistent releases and risky deploys when every app did its own thing.                         |
-| **Linux server management (IDP)**      | One panel for many Linux VPS servers with SSH automation, logs, backups, and Cloudflare DNS.                                                                                         | Servers spread across SSH sessions, ad hoc scripts, and hard-to-find logs or DNS updates.                 |
-| **Internal toolkit API (IDP)**         | Shared services for uploads, thumbnails, Philippine address lookup, 2FA, and CAPTCHA across internal apps.                                                                           | The same infrastructure features rebuilt in every product instead of once, for everyone.                  |
-| **Internal ticketing & tasks (IDP)**   | Kanban-style work tracking with RBAC and routing to replace heavy reliance on external tools.                                                                                        | Work scattered across tools that did not match internal process or cost model.                            |
-| **Barangay intercom**                  | Low-latency messaging for distributed endpoints over UDP with a master–worker style design. **R&D project** focused on **custom protocols**, a **desktop app**, and **IoT** devices. | Field and distributed sites needed fast, reliable messaging without a one-size-fits-all commercial stack. |
-| **Barangay cloud platform**            | Shared API backend for multiple clients on a high-traffic community platform with CI/CD and strong uptime.                                                                           | Several client apps needed one stable backend, predictable deploys, and uptime under load.                |
 
 ---
 
