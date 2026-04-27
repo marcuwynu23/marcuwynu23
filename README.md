@@ -1,7 +1,5 @@
 ![Banner](banner.svg)
 
-
-
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Open Source System Projects
@@ -45,6 +43,20 @@ Organizations I build and maintain to publish focused tools, libraries, and plat
 | Organization | Focus                                                       | Link                                               |
 | ------------ | ----------------------------------------------------------- | -------------------------------------------------- |
 | **mingledb** | File-based database tooling and related ecosystem projects. | [github.com/mingledb](https://github.com/mingledb) |
+
+---
+
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>DevOps Collections & Demonstrations
+
+Infrastructure-as-Code (IaC) collections and working examples to help you set up servers, monitor systems, and automate your workflow.
+
+| Tool                                                                                            | Description                                                    | Goals                                                 |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+| [docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)         | Ready-to-use stacks for common infrastructure and dev tooling. | Standardize infrastructure and dev tool setups.       |
+| [ansible-collections](https://github.com/marcuwynu23/ansible-collections)                       | Reusable playbooks for setting up and securing servers.        | Automate server setup and keep configs consistent.    |
+| [k8s-collections](https://github.com/marcuwynu23/k8s-collections)                               | Kubernetes files to manage clusters and apps.                  | Manage app deployment and scaling in K8s.             |
+| [grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)   | Pre-built dashboards to watch your system stats.               | Visualize system metrics and performance easily.      |
+| [terraform-proxmox-provisioning](https://github.com/marcuwynu23/terraform-proxmox-provisioning) | Example code showing how to set up VMs on Proxmox.             | Automate creation and management of virtual machines. |
 
 ---
 
