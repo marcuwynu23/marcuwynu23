@@ -4,35 +4,27 @@
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Open Source System Projects
 
-Selected public projects—apps and systems built to solve real workflow pain. [See All Repository →](https://github.com/marcuwynu23?tab=repositories)
+Selected public projects—apps and systems built to solve real workflow pain. [See All Repositories →](https://github.com/marcuwynu23?tab=repositories)
 
-| Project                                                 | Description                                                                                                                                                                                              | Goals                                                                                                                                      |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[BiliBay](https://github.com/marcuwynu23/BiliBay)**   | BiliBay is a Filipino-inspired online marketplace that connects buyers and sellers with simple product listings, secure transactions, and a modern, easy-to-use interface.                               | Learn and level up by building a full e-commerce project end to end, and keep it as a **template** to start future e-commerce work faster. |
-| **[GitShelf](https://github.com/marcuwynu23/gitshelf)** | GitShelf is a lightweight, self-hosted source code management system for creating, browsing, and managing local repositories. Live demo at [gitshelf.marcuwynu.space](https://gitshelf.marcuwynu.space). | Give teams a simple self-hosted place for Git repos without depending on large hosted platforms.                                           |
-| **[itemhive](https://github.com/marcuwynu23/itemhive)** | An inventory management system that provides inventory tracking, financial management, and dynamic category management in one place.                                                                     | Help businesses see stock and money clearly and keep categories organized as the catalog changes.                                          |
-| **[apms](https://github.com/marcuwynu23/apms)**         | An asset and property management system for tracking assets, assignments, maintenance, and role-based access.                                                                                            | Give teams one place to track what they own, who has it, upkeep work, and permissions without spreadsheets scattered everywhere.           |
-| **[txr](https://github.com/marcuwynu23/txr)**           | A simple, modern event ticketing system for creating events, issuing QR tickets, and tracking attendance in real time.                                                                                   | Let organizers sell tickets, issue QR codes, and monitor who arrived without a heavy ticketing stack.                                      |
-| **[vineyard](https://github.com/marcuwynu23/vineyard)** | A developer-first idea management system.                                                                                                                                                                | Help developers capture, organize, and revisit ideas and side-project thoughts in one place instead of losing them in notes and chats.     |
+- **[BiliBay](https://github.com/marcuwynu23/BiliBay)** — Filipino-inspired online marketplace connecting buyers and sellers through product listings, secure transactions, and a modern interface. Built to learn full-stack e-commerce end to end and serve as a reusable template for future commerce projects.
+- **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Lightweight self-hosted source code management platform for creating, browsing, and managing repositories. Built to give teams a simple Git hosting option without relying on large platforms. Live demo: https://gitshelf.marcuwynu.space
+- **[itemhive](https://github.com/marcuwynu23/itemhive)** — Inventory management system with stock tracking, financial visibility, and dynamic category management. Designed to help businesses organize products and monitor inventory clearly.
+- **[apms](https://github.com/marcuwynu23/apms)** — Asset and property management system for tracking assets, assignments, maintenance, and role-based access. Built to replace scattered spreadsheets with a single management platform.
+- **[txr](https://github.com/marcuwynu23/txr)** — Modern event ticketing platform for creating events, issuing QR tickets, and tracking attendance in real time. Designed to help organizers run events without a heavy ticketing stack.
 
 ---
 
-## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Developer tools
+## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Developer Tools
 
-Reusable CLIs, libraries, and utilities for automation, security checks, deployments, and day-to-day developer work. [See All Repository →](https://github.com/marcuwynu23?tab=repositories)
+Reusable CLIs, libraries, and utilities for automation, security checks, deployments, and day-to-day developer work. [See All Repositories →](https://github.com/marcuwynu23?tab=repositories)
 
-| Tool                                                        | Description                                                                                                                                                                                        | Goals                                                                                                                     |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **[Auto](https://github.com/marcuwynu23/Auto)**             | A command-line tool that automates workflows by running each script command in its own terminal instance.<br />Official Website: [auto.marcuwynu.space](https://auto.marcuwynu.space)              | Run multi-step shell workflows with each step in its own terminal so parallel and long-running jobs are easier to manage. |
-| **[mingledb](https://github.com/marcuwynu23/mingledb)**     | A lightweight file-based NoSQL database with schema validation and authentication for local or embedded use.<br />Official Website: [mingledb.marcuwynu.space](https://mingledb.marcuwynu.space)   | Store and query data locally or inside apps without running a full database server.                                       |
-| **[surisc](https://github.com/marcuwynu23/surisc)**         | A high-performance reconnaissance tool built specifically for frontend web security.                                                                                                               | Surface frontend and API exposure quickly so security review happens earlier in the lifecycle.                            |
-| **[linea](https://github.com/marcuwynu23/linea)**           | Linea is a cross-platform CLI tool that organizes and runs commands as workflows using YAML.<br />Official Website: [linea.marcuwynu.space](https://linea.marcuwynu.space)                         | Define repeatable command workflows in YAML and run them the same way on different machines.                              |
-| **[dan](https://github.com/marcuwynu23/danjs)**             | Dan is a human-readable data format for structured configs, datasets, and annotations with tables, arrays, and comments.<br />Official Website: [dan.marcuwynu.space](https://dan.marcuwynu.space) | Provide a readable structured format that supports comments and rich data layouts for practical use.                      |
-| **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** | A lightweight, declarative deployment automation framework for Node.js, inspired by pydaffodil.                                                                                                    | Automate Node.js deploys to remote servers with a small, declarative model.                                               |
-| **[pydaffodil](https://github.com/marcuwynu23/pydaffodil)** | A reusable deployment framework for Python, designed to simplify deploying applications to remote VPS servers.                                                                                     | Standardize Python app deploys to VPS hosts so releases are less ad hoc.                                                  |
-| **[godaffodil](https://github.com/marcuwynu23/godaffodil)** | A cross-platform deployment automation framework for Go, aligned with the Daffodil YAML workflow model.                                                                                            | Standardize Go-based deployment workflows across hosts with reusable, declarative steps.                                  |
-| **[treego](https://github.com/marcuwynu23/treego)**         | TreeGo is a CLI tool for printing directory structures and searching files.                                                                                                                        | Inspect folder layout and find files from the terminal without switching tools.                                           |
-| **[webserve](https://github.com/marcuwynu23/webserve)**     | Static file server for local development.<br />Official Website: [webserve.marcuwynu.space](https://webserve.marcuwynu.space)                                                                      | Serve static sites and assets locally for fast feedback while building frontends.                                         |
+- **[Auto](https://github.com/marcuwynu23/Auto)** — Command-line workflow automation tool that runs each script step in its own terminal instance, making parallel and long-running jobs easier to manage. Official Website: https://auto.marcuwynu.space
+- **[surisc](https://github.com/marcuwynu23/surisc)** — High-performance reconnaissance tool focused on frontend web security, helping teams discover frontend and API exposure earlier in the lifecycle.
+- **[linea](https://github.com/marcuwynu23/linea)** — Cross-platform CLI for defining and running YAML-based command workflows consistently across machines. Official Website: https://linea.marcuwynu.space
+- **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs, datasets, and annotations with tables, arrays, and comments. Designed for practical structured data workflows. Official Website: https://dan.marcuwynu.space
+- **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Lightweight declarative deployment automation framework for Node.js, simplifying remote deployments with reusable workflows.
+- **[treego](https://github.com/marcuwynu23/treego)** — CLI tool for printing directory trees and searching files directly from the terminal.
+- **[webserve](https://github.com/marcuwynu23/webserve)** — Lightweight static file server for local development, enabling fast frontend previews and asset testing. Official Website: https://webserve.marcuwynu.space
 
 ---
 
@@ -40,58 +32,34 @@ Reusable CLIs, libraries, and utilities for automation, security checks, deploym
 
 Organizations I build and maintain to publish focused tools, libraries, and platform work.
 
-| Organization | Focus                                                       | Link                                               |
-| ------------ | ----------------------------------------------------------- | -------------------------------------------------- |
-| **mingledb** | File-based database tooling and related ecosystem projects. | [github.com/mingledb](https://github.com/mingledb) |
+- **mingledb** — File-based database tooling and related ecosystem projects. https://github.com/mingledb
 
 ---
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>DevOps Collections & Demonstrations
 
-Infrastructure-as-Code (IaC) collections and working examples to help you set up servers, monitor systems, and automate your workflow.
+Infrastructure-as-Code collections and working examples for provisioning, monitoring, automation, and repeatable environments.
 
-| Tool                                                                                            | Description                                                                                                                  | Goals                                                                                         |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)         | This repository contains ready-to-use stacks for common infrastructure and development tooling.                              | Standardize infrastructure and dev tool setups.                                               |
-| [ansible-collections](https://github.com/marcuwynu23/ansible-collections)                       | This repository contains reusable playbooks for setting up and securing servers.                                             | Automate server setup and keep configs consistent.                                            |
-| [k8s-collections](https://github.com/marcuwynu23/k8s-collections)                               | This repository contains Kubernetes manifests for managing clusters and applications.                                        | Manage app deployment and scaling in K8s.                                                     |
-| [grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)   | This repository contains pre-built dashboards for monitoring infrastructure and system metrics.                              | Visualize system metrics and performance easily.                                              |
-| [terraform-proxmox-provisioning](https://github.com/marcuwynu23/terraform-proxmox-provisioning) | This repository contains Terraform examples for provisioning virtual machines on Proxmox.                                    | Automate creation and management of virtual machines.                                         |
-| [artillery-collections](https://github.com/marcuwynu23/artillery-collections)                   | This repository contains Artillery test scenarios for different logical groups (barangay, building, city, department, team). | Automate stress testing and performance validation workflows using reusable test collections. |
+- **[docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)** — Ready-to-use stacks for common infrastructure and development tooling to standardize setups quickly.
+- **[ansible-collections](https://github.com/marcuwynu23/ansible-collections)** — Reusable playbooks for provisioning, securing, and maintaining consistent server environments.
+- **[k8s-collections](https://github.com/marcuwynu23/k8s-collections)** — Kubernetes manifests for managing clusters, deploying apps, and scaling workloads.
+- **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built dashboards for monitoring infrastructure, metrics, and system performance.
+- **[terraform-proxmox-provisioning](https://github.com/marcuwynu23/terraform-proxmox-provisioning)** — Terraform examples for provisioning and managing virtual machines on Proxmox.
+- **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios for stress testing and performance validation across multiple logical groups.
 
 ---
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 2l2.2 6.8L21 11l-6.8 2.2L12 20l-2.2-6.8L3 11l6.8-2.2L12 2z"/></svg>Project Templates
 
-Ship faster with starter templates and boilerplates designed from a problem-solver mindset.
+Starter templates and boilerplates designed to remove repeated setup friction and help teams ship faster.
 
-I build these to remove repeated setup and deployment friction so you can focus on features, not glue code. If you like **DevOps automation**, consistent **project structure**, and **reproducible workflows**, these templates will feel familiar.
-
-[See all templates on GitHub](https://github.com/marcuwynu23?tab=repositories&q=&type=template)
-
----
-
-What they solve:
-
-- Fresh-project setup takes too long (env, scripts, structure)
-- Deploy/process steps vary from repo to repo
-- Teams need consistent conventions they can reuse
-
-Clone a template and start building—setup, scripts, and structure are already handled.
-
----
-
-| Template                                                                                              | Description                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[windows-cpp-c-dll-template](https://github.com/marcuwynu23/windows-cpp-c-dll-template)**           | Minimal project template for a Windows DLL in C or C++                                                                                          |
-| **[wxPython-project-template](https://github.com/marcuwynu23/wxPython-project-template)**             | A minimal, production-oriented starter pack for desktop applications built with wxPython and managed with uv.                                   |
-| **[golang-web-mvc-project-template](https://github.com/marcuwynu23/golang-web-mvc-project-template)** | a golang web project template                                                                                                                   |
-| **[cli-go-project-template](https://github.com/marcuwynu23/cli-go-project-template)**                 | A console/cli project template for building command-line applications in Go with Cobra                                                          |
-| **[cpp-cli-project-template](https://github.com/marcuwynu23/cpp-cli-project-template)**               | A project template for building cross-platform console/cli applications in C++ using CLI11, and vcpkg for dependency management.                |
-| **[cpp-gui-project-template](https://github.com/marcuwynu23/cpp-gui-project-template)**               | A project template for building cross-platform GUI applications in C++ using Dear ImGui, GLFW, and vcpkg for dependency management.             |
-| **[monorepo-project-template](https://github.com/marcuwynu23/monorepo-project-template)**             | A monorepo project template using PNPM Workspaces and Turborepo. This repository includes a frontend, backend, and shared UI component library. |
-| **[rust-axum-web-template](https://github.com/marcuwynu23/rust-axum-web-template)**                   | This Repository is a project template for creating rust web application using axum                                                              |
-| **[flask-web-app-project-template](https://github.com/marcuwynu23/flask-web-app-project-template)**   | Web Application Project Template using Flask Python                                                                                             |
+- **[wxPython-project-template](https://github.com/marcuwynu23/wxPython-project-template)** — Production-oriented desktop starter template using wxPython and uv.
+- **[golang-web-mvc-project-template](https://github.com/marcuwynu23/golang-web-mvc-project-template)** — Starter template for Golang MVC web applications.
+- **[cli-go-project-template](https://github.com/marcuwynu23/cli-go-project-template)** — Console application template for building Go CLIs with Cobra.
+- **[cpp-cli-project-template](https://github.com/marcuwynu23/cpp-cli-project-template)** — Cross-platform C++ CLI template using CLI11 and vcpkg.
+- **[cpp-gui-project-template](https://github.com/marcuwynu23/cpp-gui-project-template)** — Cross-platform C++ GUI template using Dear ImGui, GLFW, and vcpkg.
+- **[monorepo-project-template](https://github.com/marcuwynu23/monorepo-project-template)** — Monorepo template using PNPM Workspaces and Turborepo with frontend, backend, and shared UI packages.
+- **[flask-web-app-project-template](https://github.com/marcuwynu23/flask-web-app-project-template)** — Flask-based starter template for Python web applications.
 
 ---
 
@@ -101,7 +69,7 @@ If my tools or templates saved you time, consider supporting maintenance:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynumarcu23)
 
-For collaborations, questions, support, or business inquiries, feel free to contact me at:
+For collaborations, questions, support, or business inquiries:
 
 - **support@marcuwynu.space**
 - **help@marcuwynu.space**
