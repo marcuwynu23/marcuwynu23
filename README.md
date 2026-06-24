@@ -1,16 +1,10 @@
-![Banner](banner.svg)
-
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
+
+![Banner](banner.svg)
 
 ## Open Source System Projects
 
-Selected public projects—apps and systems built to solve real workflow pain. [See All →](https://github.com/marcuwynu23?tab=repositories)
-
-- **[BiliBay](https://github.com/marcuwynu23/BiliBay)** — Filipino-inspired online marketplace for buyers and sellers.
-- **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Lightweight self-hosted Git source code management platform. Live: https://gitshelf.marcuwynu.space
-- **[itemhive](https://github.com/marcuwynu23/itemhive)** — Inventory management with stock tracking and financial visibility.
-- **[apms](https://github.com/marcuwynu23/apms)** — Asset and property management with role-based access control.
-- **[txr](https://github.com/marcuwynu23/txr)** — Event ticketing platform with QR tickets and real-time attendance tracking.
+- **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Selected public projects—apps and systems built to solve real workflow pain.
 
 ---
 
@@ -25,12 +19,8 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 - **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Declarative deployment automation framework for Node.js.
 - **[treego](https://github.com/marcuwynu23/treego)** — CLI for printing directory trees and searching files.
 - **[webserve](https://github.com/marcuwynu23/webserve)** — Lightweight static file server for local development. https://webserve.marcuwynu.space
-
----
-
-## Organizations
-
-- **mingledb** — File-based database tooling and ecosystem projects. https://github.com/mingledb
+- **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Lightweight self-hosted Git source code management platform. Live: https://gitshelf.marcuwynu.space
+- **[MingleDB](https://github.com/mingledb)** — Creator of MingleDB, a file-based database tooling and ecosystem.
 
 ---
 
