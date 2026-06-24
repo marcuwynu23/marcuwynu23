@@ -26,14 +26,14 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 
 ## DevOps Collections
 
-Infrastructure-as-Code examples for provisioning, monitoring, and automation.
+Infrastructure-as-Code examples for provisioning,containerization,orchestration, monitoring, and automation.
 
 - **[docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)** — Ready-to-use Docker Compose stacks for common infrastructure and development tooling, designed to standardize local and server environments quickly without writing configs from scratch.
+- **[terraform-module-collections](https://github.com/marcuwynu23?tab=repositories&q=terraform)** — Reusable Terraform modules for provisioning and managing infrastructure across providers, covering VM creation, networking, storage, and environment configuration to standardize infrastructure-as-code workflows.
 - **[ansible-collections](https://github.com/marcuwynu23/ansible-collections)** — Reusable Ansible playbooks for provisioning, securing, and maintaining consistent server environments across multiple hosts and deployment targets.
+- **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios organized by logical groups for stress testing, load validation, and performance benchmarking across APIs and services.
 - **[k8s-collections](https://github.com/marcuwynu23/k8s-collections)** — Kubernetes manifests for managing clusters, deploying applications, configuring services, and scaling workloads across environments.
 - **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built Grafana dashboards for monitoring infrastructure metrics, system performance, and application health out of the box.
-- **[terraform-module-collections](https://github.com/marcuwynu23?tab=repositories&q=terraform)** — Reusable Terraform modules for provisioning and managing infrastructure across providers, covering VM creation, networking, storage, and environment configuration to standardize infrastructure-as-code workflows.
-- **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios organized by logical groups for stress testing, load validation, and performance benchmarking across APIs and services.
 
 ---
 
