@@ -26,7 +26,7 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 
 ## DevOps Collections
 
-Infrastructure-as-Code examples for provisioning,containerization,orchestration, monitoring, and automation.
+DevOps collections for provisioning,containerization,orchestration, monitoring, and automation.
 
 - **[docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)** — Ready-to-use Docker Compose stacks for common infrastructure and development tooling, designed to standardize local and server environments quickly without writing configs from scratch.
 - **[terraform-module-collections](https://github.com/marcuwynu23?tab=repositories&q=terraform)** — Reusable Terraform modules for provisioning and managing infrastructure across providers, covering VM creation, networking, storage, and environment configuration to standardize infrastructure-as-code workflows.
