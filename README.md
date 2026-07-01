@@ -1,6 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
-![Banner](banner.svg)
+Hi! I'm **Mark Wayne Menorca** — a software engineer exploring systems, tools, and foundational engineering concepts through open-source projects.
+
 
 ## Open Source System Projects
 
@@ -52,6 +53,8 @@ Fundamental concepts demonstrated through projects — API types, caching, CAP t
 ---
 
 ## Support
+
+If you like my concepts and ideas, I'm open for donations to support my cause. Every contribution helps me build more open-source projects and share knowledge.
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynumarcu23)
 
