@@ -43,6 +43,14 @@ DevOps collections for provisioning,containerization,orchestration, monitoring, 
 
 ---
 
+## Software Engineering Concepts
+
+Fundamental concepts demonstrated through projects — API types, caching, CAP theorem, data structures, and more.
+
+- **[Project Demonstrations](https://github.com/marcuwynu23?tab=repositories&q=project-demonstration)** — Hands-on implementations of core software engineering concepts across different paradigms and technologies.
+
+---
+
 ## Support
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynumarcu23)
