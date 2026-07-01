@@ -2,13 +2,6 @@
 
 Hi! I'm **Mark Wayne Menorca** — a software engineer exploring systems, tools, and foundational engineering concepts through open-source projects.
 
-
-## Open Source System Projects
-
-- **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Selected public projects—apps and systems built to solve real workflow pain.
-
----
-
 ## Developer Tools
 
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
@@ -35,6 +28,12 @@ DevOps collections for provisioning,containerization,orchestration, monitoring, 
 - **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios organized by logical groups for stress testing, load validation, and performance benchmarking across APIs and services.
 - **[k8s-collections](https://github.com/marcuwynu23/k8s-collections)** — Kubernetes manifests for managing clusters, deploying applications, configuring services, and scaling workloads across environments.
 - **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built Grafana dashboards for monitoring infrastructure metrics, system performance, and application health out of the box.
+
+---
+
+## System Projects
+
+- **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Selected public projects—apps and systems built to solve real workflow pain.
 
 ---
 
