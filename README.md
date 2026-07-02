@@ -11,7 +11,7 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 - **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues. https://surisc.marcuwynu.space
 - **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Set up reverse SSH tunnels from a config file.
 - **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
-- **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools.
+- **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools. https://likhis.marcuwynu.space
 - **[podfire](https://github.com/marcuwynu23/podfire)** — Deploy GitHub repos as Dockerized apps. https://podfire.marcuwynu.space
 - **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs and datasets. https://dan.marcuwynu.space
 - **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Deploy Node.js apps with declarative workflows.
