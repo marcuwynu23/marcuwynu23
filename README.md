@@ -2,7 +2,7 @@
 
 Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer and **R&D** specialist focused on **tool development**, **DevOps**, and building foundational infrastructure that makes developers' lives easier. 6+ years of open-source experience.
 
-## Developer Tools
+### Developer Tools
 
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
@@ -25,13 +25,13 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 - **[agentai](https://github.com/marcuwynu23/agentai)** — AI code assistant with multi-provider support.
 - **[podfire](https://github.com/marcuwynu23/podfire)** — Deploy GitHub repos as Dockerized apps. https://podfire.marcuwynu.space
 
-## Software Engineering Concepts
+### Software Engineering Concepts
 
 Fundamental concepts demonstrated through projects — API types, caching, CAP theorem, data structures, and more.
 
 - **[Project Demonstrations](https://github.com/marcuwynu23?tab=repositories&q=project-demonstration)** — Hands-on implementations of core software engineering concepts across different paradigms and technologies.
 
-## DevOps Collections
+### DevOps Collections
 
 DevOps collections for provisioning,containerization,orchestration, monitoring, and automation.
 
@@ -42,18 +42,18 @@ DevOps collections for provisioning,containerization,orchestration, monitoring, 
 - **[k8s-collections](https://github.com/marcuwynu23/k8s-collections)** — Kubernetes manifests for managing clusters, deploying applications, configuring services, and scaling workloads across environments.
 - **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built Grafana dashboards for monitoring infrastructure metrics, system performance, and application health out of the box.
 
-## System Projects
+### System Projects
 
 - **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Selected public projects—apps and systems built to solve real workflow pain.
 
-## Project Templates
+### Project Templates
 
 - **[Project Templates](https://github.com/marcuwynu23?tab=repositories&q=&type=template)** — Starter templates and boilerplates across multiple languages and frameworks, designed to remove repeated setup friction and help ship projects faster.
 
-## Support
+#### Support & Ask for help
 
-If you like my concepts and ideas, I'm open for donations to support my cause. Every contribution helps me build more open-source projects and share knowledge.
+If you like my concepts and ideas, I'm open for donations to support my cause and if you want to ask something. Every contribution helps me build more open-source projects and share knowledge.
 
-[<img title="" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="740">](https://paypal.me/wynumarcu23)
-[<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="740">](mailto:support@marcuwynu.space)
-[<img title="" src="https://img.shields.io/badge/Ask&Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Help" width="740">](mailto:help@marcuwynu.space)
+[<img title="" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23)
+[<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="150">](mailto:support@marcuwynu.space)
+[<img title="" src="https://img.shields.io/badge/Ask&Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Help" width="151">](mailto:help@marcuwynu.space)
