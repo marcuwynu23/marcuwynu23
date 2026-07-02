@@ -8,7 +8,7 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 
 - **[agentai](https://github.com/marcuwynu23/agentai)** — AI code assistant with multi-provider support.
 - **[Auto](https://github.com/marcuwynu23/Auto)** — Run script steps in parallel terminal windows. https://auto.marcuwynu.space
-- **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues.
+- **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues. https://surisc.marcuwynu.space
 - **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Set up reverse SSH tunnels from a config file.
 - **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
 - **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools.
