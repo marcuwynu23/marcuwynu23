@@ -7,6 +7,7 @@ Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer and **R&D** spe
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
 - **[Auto](https://github.com/marcuwynu23/Auto)** — Run script steps in parallel terminal windows. https://auto.marcuwynu.space
+- **[carabao.js](https://github.com/marcuwynu23/carabao.js)** — Node.js MVC web framework. TypeScript-first, built on Express. https://carabao.marcuwynu.space
 - **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues. https://surisc.marcuwynu.space
 - **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Set up reverse SSH tunnels from a config file.
 - **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Deploy Node.js apps with declarative workflows.
