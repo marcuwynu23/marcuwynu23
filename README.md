@@ -78,7 +78,7 @@ If you like my concepts and ideas, I'm open for donations to support my cause. E
 
 <table>
   <tr>
-    <td><a href="https://paypal.me/wynumarcu23"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="354"></a></td>
+    <td><a href="https://paypal.me/wynumarcu23"><img src="https://img.shields.io/badge/PayPal-donation-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" width="354"></a></td>
     <td><a href="mailto:support@marcuwynu.space"><img src="https://img.shields.io/badge/Gmail-Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="354"></a></td>
     <td><a href="mailto:help@marcuwynu.space"><img src="https://img.shields.io/badge/Gmail-Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Help" width="354"></a></td>
   </tr>
