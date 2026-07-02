@@ -1,6 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
-Hi! I'm **Mark Wayne Menorca** — a fullstack developer and **R&D** specialist focused on **tool development**, **DevOps**, and building foundational infrastructure that makes developers' lives easier. 6+ years of open-source experience.
+Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer and **R&D** specialist focused on **tool development**, **DevOps**, and building foundational infrastructure that makes developers' lives easier. 6+ years of open-source experience.
 
 ## Developer Tools
 
