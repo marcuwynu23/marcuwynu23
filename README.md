@@ -1,26 +1,27 @@
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
-Hi! I'm **Mark Wayne Menorca** — a software engineer exploring systems, tools, and foundational engineering concepts through open-source projects.
+Hi! I'm **Mark Wayne Menorca** — a software engineer with 6+ years of open-source experience, exploring systems, tools, and foundational engineering concepts through public projects.
 
 ## Developer Tools
 
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
-- **[agentai](https://github.com/marcuwynu23/agentai)** — CLI code assistant with AI-powered planning and multi-provider support.
-- **[Auto](https://github.com/marcuwynu23/Auto)** — Workflow automation tool running script steps in parallel terminal instances. https://auto.marcuwynu.space
-- **[surisc](https://github.com/marcuwynu23/surisc)** — Frontend web security reconnaissance tool.
-- **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Cross-platform CLI utility for reverse SSH tunneling.
-- **[linea](https://github.com/marcuwynu23/linea)** — YAML-based cross-platform command workflow runner. https://linea.marcuwynu.space
-- **[likhis](https://github.com/marcuwynu23/likhis)** — Scans backend code to auto-discover API routes and generate ready-to-import collections for API testing tools.
-- **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs, datasets, and annotations. https://dan.marcuwynu.space
-- **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Declarative deployment automation framework for Node.js.
-- **[just-utility](https://github.com/marcuwynu23/just-utility)** — Compact all-in-one command-line utility for Windows with built-in and 3rd party tools.
-- **[treego](https://github.com/marcuwynu23/treego)** — CLI for printing directory trees and searching files.
-- **[webserve](https://github.com/marcuwynu23/webserve)** — Lightweight static file server for local development. https://webserve.marcuwynu.space
-- **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — CLI tool to apply standard community files to a GitHub repository from a shared template source.
-- **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Terminal UI that monitors Git activity in real time, like an htop-style dashboard for repository commits.
-- **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Lightweight self-hosted Git source code management platform. Live: https://gitshelf.marcuwynu.space
-- **[MingleDB](https://github.com/mingledb)** — Creator of MingleDB, a file-based database tooling and ecosystem.
+- **[agentai](https://github.com/marcuwynu23/agentai)** — AI code assistant with multi-provider support.
+- **[Auto](https://github.com/marcuwynu23/Auto)** — Run script steps in parallel terminal windows. https://auto.marcuwynu.space
+- **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues.
+- **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Set up reverse SSH tunnels from a config file.
+- **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
+- **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools.
+- **[podfire](https://github.com/marcuwynu23/podfire)** — Deploy GitHub repos as Dockerized apps. https://podfire.marcuwynu.space
+- **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs and datasets. https://dan.marcuwynu.space
+- **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Deploy Node.js apps with declarative workflows.
+- **[just-utility](https://github.com/marcuwynu23/just-utility)** — Windows CLI utility with built-in and 3rd party tools.
+- **[treego](https://github.com/marcuwynu23/treego)** — Print directory trees and search files.
+- **[webserve](https://github.com/marcuwynu23/webserve)** — Static file server for local development. https://webserve.marcuwynu.space
+- **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repo.
+- **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Live dashboard for monitoring Git commits.
+- **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Self-hosted Git repository manager. https://gitshelf.marcuwynu.space
+- **[MingleDB](https://github.com/mingledb)** — File-based database tooling ecosystem.
 
 ---
 
