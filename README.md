@@ -21,7 +21,7 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 - **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repo.
 - **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Live dashboard for monitoring Git commits.
 - **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Self-hosted Git repository manager. https://gitshelf.marcuwynu.space
-- **[MingleDB](https://github.com/mingledb)** — File-based database tooling ecosystem.
+- **[MingleDB](https://github.com/mingledb)** — File-based database tooling ecosystem. https://mingledb.marcuwynu.space
 
 ---
 
