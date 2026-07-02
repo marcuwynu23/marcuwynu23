@@ -54,6 +54,6 @@ DevOps collections for provisioning,containerization,orchestration, monitoring, 
 
 If you like my concepts and ideas, I'm open for donations to support my cause and if you want to ask something. Every contribution helps me build more open-source projects and share knowledge.
 
-[<img title="" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23)
-[<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="150">](mailto:support@marcuwynu.space)
-[<img title="" src="https://img.shields.io/badge/Ask&Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Help" width="151">](mailto:help@marcuwynu.space)
+[<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23)
+[<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:support@marcuwynu.space)
+[<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:help@marcuwynu.space)
