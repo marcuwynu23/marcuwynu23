@@ -6,22 +6,23 @@ Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer and **R&D** spe
 
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
-- **[agentai](https://github.com/marcuwynu23/agentai)** — AI code assistant with multi-provider support.
 - **[Auto](https://github.com/marcuwynu23/Auto)** — Run script steps in parallel terminal windows. https://auto.marcuwynu.space
 - **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues. https://surisc.marcuwynu.space
 - **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Set up reverse SSH tunnels from a config file.
-- **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
-- **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools. https://likhis.marcuwynu.space
-- **[podfire](https://github.com/marcuwynu23/podfire)** — Deploy GitHub repos as Dockerized apps. https://podfire.marcuwynu.space
-- **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs and datasets. https://dan.marcuwynu.space
 - **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Deploy Node.js apps with declarative workflows.
 - **[just-utility](https://github.com/marcuwynu23/just-utility)** — Windows CLI utility with built-in and 3rd party tools.
-- **[treego](https://github.com/marcuwynu23/treego)** — Print directory trees and search files.
 - **[webserve](https://github.com/marcuwynu23/webserve)** — Static file server for local development. https://webserve.marcuwynu.space
 - **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repo.
 - **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Live dashboard for monitoring Git commits.
+- **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
+- **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools. https://likhis.marcuwynu.space
+- **[haribon](https://github.com/marcuwynu23/haribon)** — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing. https://haribon.marcuwynu.space
+- **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs and datasets. https://dan.marcuwynu.space
+- **[treego](https://github.com/marcuwynu23/treego)** — Print directory trees and search files.
 - **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Self-hosted Git repository manager. https://gitshelf.marcuwynu.space
 - **[MingleDB](https://github.com/mingledb)** — File-based database tooling ecosystem. https://mingledb.marcuwynu.space
+- **[agentai](https://github.com/marcuwynu23/agentai)** — AI code assistant with multi-provider support.
+- **[podfire](https://github.com/marcuwynu23/podfire)** — Deploy GitHub repos as Dockerized apps. https://podfire.marcuwynu.space
 
 ---
 
