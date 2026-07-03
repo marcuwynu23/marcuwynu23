@@ -16,6 +16,7 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 - **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repo.
 - **[git-policy](https://github.com/marcuwynu23/git-policy)** — Global Git rule and policy management. Install once, protect every repo.
 - **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Live dashboard for monitoring Git commits.
+- **[git-share](https://github.com/marcuwynu23/git-share)** — Share commits and repos instantly.
 - **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
 - **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools. https://likhis.marcuwynu.space
 - **[haribon](https://github.com/marcuwynu23/haribon)** — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing. https://haribon.marcuwynu.space
