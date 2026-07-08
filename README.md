@@ -14,8 +14,8 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 - **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Deploy Node.js apps with declarative workflows.
 - **[just-utility](https://github.com/marcuwynu23/just-utility)** — Windows CLI utility with built-in and 3rd party tools.
 - **[webserve](https://github.com/marcuwynu23/webserve)** — Static file server for local development. https://webserve.marcuwynu.space
-- **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repo.
-- **[git-policy](https://github.com/marcuwynu23/git-policy)** — Global Git rule and policy management. Install once, protect every repo.
+- **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repository.
+- **[git-policy](https://github.com/marcuwynu23/git-policy)** — Global Git rule and policy management. Install once, protect every repository.
 - **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Live dashboard for monitoring Git commits.
 - **[git-share](https://github.com/marcuwynu23/git-share)** — Share commits and repos instantly.
 - **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
