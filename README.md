@@ -6,7 +6,7 @@ Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer and **R&D** spe
 
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
-| Logo                                                                     | Tool — Description \_\_                                                                                                                                                            | URL                              |
+| Logo                                                                     | Description                                                                                                                                                                        | URL                              |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | <img src="logos/auto.ico" width="50" height="50" alt="Auto">             | [Auto](https://github.com/marcuwynu23/Auto) — Run script steps in parallel terminal windows.                                                                                       | https://auto.marcuwynu.space     |
 | <img src="logos/narciso.svg" width="75" height="50" alt="narciso">       | [narciso](https://github.com/marcuwynu23/narciso) — Lightweight PHP web library. Routing, middleware, CORS, rate limiting, security headers, and database — no framework required. | —                                |
