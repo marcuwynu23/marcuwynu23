@@ -6,27 +6,29 @@ Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer and **R&D** spe
 
 CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
-- **[Auto](https://github.com/marcuwynu23/Auto)** — Run script steps in parallel terminal windows. https://auto.marcuwynu.space
-- **[narciso](https://github.com/marcuwynu23/narciso)** — Lightweight PHP web library. Routing, middleware, CORS, rate limiting, security headers, and database — no framework required.
-- **[carabao.js](https://github.com/marcuwynu23/carabao.js)** — Node.js MVC web framework. TypeScript-first, built on Express. https://carabao.marcuwynu.space
-- **[surisc](https://github.com/marcuwynu23/surisc)** — Scan frontend web apps for security issues. https://surisc.marcuwynu.space
-- **[sshtunnel](https://github.com/marcuwynu23/sshtunnel)** — Set up reverse SSH tunnels from a config file.
-- **[jsdaffodil](https://github.com/marcuwynu23/jsdaffodil)** — Deploy Node.js apps with declarative workflows.
-- **[just-utility](https://github.com/marcuwynu23/just-utility)** — Windows CLI utility with built-in and 3rd party tools.
-- **[webserve](https://github.com/marcuwynu23/webserve)** — Static file server for local development. https://webserve.marcuwynu.space
-- **[git-community-standards](https://github.com/marcuwynu23/git-community-standards)** — Apply community standard files to any GitHub repository.
-- **[git-policy](https://github.com/marcuwynu23/git-policy)** — Global Git rule and policy management. Install once, protect every repository.
-- **[git-remote-commits](https://github.com/marcuwynu23/git-remote-commits)** — Live dashboard for monitoring Git commits.
-- **[git-share](https://github.com/marcuwynu23/git-share)** — Share commits and repos instantly.
-- **[linea](https://github.com/marcuwynu23/linea)** — Run command workflows defined in YAML. https://linea.marcuwynu.space
-- **[likhis](https://github.com/marcuwynu23/likhis)** — Auto-discover API routes and export to testing tools. https://likhis.marcuwynu.space
-- **[haribon](https://github.com/marcuwynu23/haribon)** — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing. https://haribon.marcuwynu.space
-- **[dan](https://github.com/marcuwynu23/danjs)** — Human-readable data format for configs and datasets. https://dan.marcuwynu.space
-- **[treego](https://github.com/marcuwynu23/treego)** — Print directory trees and search files.
-- **[GitShelf](https://github.com/marcuwynu23/gitshelf)** — Self-hosted Git repository manager. https://gitshelf.marcuwynu.space
-- **[MingleDB](https://github.com/mingledb)** — File-based database tooling ecosystem. https://mingledb.marcuwynu.space
-- **[agentai](https://github.com/marcuwynu23/agentai)** — AI code assistant with multi-provider support.
-- **[podfire](https://github.com/marcuwynu23/podfire)** — Deploy GitHub repos as Dockerized apps. https://podfire.marcuwynu.space
+| Logo                                                                     | Tool — Description \_\_                                                                                                                                                            | URL                              |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| <img src="logos/auto.ico" width="50" height="50" alt="Auto">             | [Auto](https://github.com/marcuwynu23/Auto) — Run script steps in parallel terminal windows.                                                                                       | https://auto.marcuwynu.space     |
+| <img src="logos/narciso.svg" width="75" height="50" alt="narciso">       | [narciso](https://github.com/marcuwynu23/narciso) — Lightweight PHP web library. Routing, middleware, CORS, rate limiting, security headers, and database — no framework required. | —                                |
+| <img src="logos/carabaojs.svg" width="75" height="75" alt="carabao.js">  | [carabao.js](https://github.com/marcuwynu23/carabao.js) — Node.js MVC web framework. TypeScript-first, built on Express.                                                           | https://carabao.marcuwynu.space  |
+| <img src="logos/surisc.svg" width="75" height="75" alt="surisc">         | [surisc](https://github.com/marcuwynu23/surisc) — Scan frontend web apps for security issues.                                                                                      | https://surisc.marcuwynu.space   |
+| —                                                                        | [sshtunnel](https://github.com/marcuwynu23/sshtunnel) — Set up reverse SSH tunnels from a config file.                                                                             | —                                |
+| —                                                                        | [jsdaffodil](https://github.com/marcuwynu23/jsdaffodil) — Deploy Node.js apps with declarative workflows.                                                                          | —                                |
+| —                                                                        | [just-utility](https://github.com/marcuwynu23/just-utility) — Windows CLI utility with built-in and 3rd party tools.                                                               | —                                |
+| —                                                                        | [webserve](https://github.com/marcuwynu23/webserve) — Static file server for local development.                                                                                    | https://webserve.marcuwynu.space |
+| —                                                                        | [git-community-standards](https://github.com/marcuwynu23/git-community-standards) — Apply community standard files to any GitHub repository.                                       | —                                |
+| <img src="logos/git-policy.svg" width="75" height="75" alt="git-policy"> | [git-policy](https://github.com/marcuwynu23/git-policy) — Global Git rule and policy management. Install once, protect every repository.                                           | —                                |
+| —                                                                        | [git-remote-commits](https://github.com/marcuwynu23/git-remote-commits) — Live dashboard for monitoring Git commits.                                                               | —                                |
+| —                                                                        | [git-share](https://github.com/marcuwynu23/git-share) — Share commits and repos instantly.                                                                                         | —                                |
+| —                                                                        | [linea](https://github.com/marcuwynu23/linea) — Run command workflows defined in YAML.                                                                                             | https://linea.marcuwynu.space    |
+| —                                                                        | [likhis](https://github.com/marcuwynu23/likhis) — Auto-discover API routes and export to testing tools.                                                                            | https://likhis.marcuwynu.space   |
+| —                                                                        | [haribon](https://github.com/marcuwynu23/haribon) — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing.                                       | https://haribon.marcuwynu.space  |
+| —                                                                        | [dan](https://github.com/marcuwynu23/danjs) — Human-readable data format for configs and datasets.                                                                                 | https://dan.marcuwynu.space      |
+| —                                                                        | [treego](https://github.com/marcuwynu23/treego) — Print directory trees and search files.                                                                                          | —                                |
+| <img src="logos/git-shelf.svg" width="75" height="75" alt="GitShelf">    | [GitShelf](https://github.com/marcuwynu23/gitshelf) — Self-hosted Git repository manager.                                                                                          | https://gitshelf.marcuwynu.space |
+| <img src="logos/mingledb.svg" width="75" height="75" alt="MingleDB">     | [MingleDB](https://github.com/mingledb) — File-based database tooling ecosystem.                                                                                                   | https://mingledb.marcuwynu.space |
+| —                                                                        | [agentai](https://github.com/marcuwynu23/agentai) — AI code assistant with multi-provider support.                                                                                 | —                                |
+| <img src="logos/podfire.svg" width="75" height="75" alt="Podfire">       | [podfire](https://github.com/marcuwynu23/podfire) — Deploy GitHub repos as Dockerized apps.                                                                                        | https://podfire.marcuwynu.space  |
 
 ### Software Engineering Concepts
 
