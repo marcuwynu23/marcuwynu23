@@ -4,7 +4,7 @@ Hi! I'm **Mark Wayne Menorca** — a Fullstack Software Engineer focusing on **b
 
 ### Developer Tools
 
-CLIs, libraries, and utilities for automation, security, and day-to-day dev work. [See All →](https://github.com/marcuwynu23?tab=repositories)
+Tools I've built out of real problems I ran into — CLIs, libraries, and utilities for automation, security, and everyday dev work. Some started as side projects, others as solutions I wished existed. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
 |                                    Logo                                    | Description                                                                                                                                                                        | Official Website                 |
 | :------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
@@ -31,13 +31,13 @@ CLIs, libraries, and utilities for automation, security, and day-to-day dev work
 
 ### Software Engineering Concepts
 
-Fundamental concepts demonstrated through projects — API types, caching, CAP theorem, data structures, and more.
+Concepts I wanted to truly understand, so I built projects around them — API types, caching, CAP theorem, data structures, and more.
 
 - **[Project Demonstrations](https://github.com/marcuwynu23?tab=repositories&q=project-demonstration)** — Hands-on implementations of core software engineering concepts across different paradigms and technologies.
 
 ### DevOps Collections
 
-DevOps collections for provisioning,containerization,orchestration, monitoring, and automation.
+Stacks and configs I've collected and refined from real deployments — provisioning, containerization, orchestration, monitoring, and automation.
 
 - **[docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)** — Ready-to-use Docker Compose stacks for common infrastructure and development tooling, designed to standardize local and server environments quickly without writing configs from scratch.
 
@@ -53,11 +53,11 @@ DevOps collections for provisioning,containerization,orchestration, monitoring, 
 
 ### System Projects
 
-- **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Selected public projects—apps and systems built to solve real workflow pain.
+- **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Full apps and systems I built to scratch my own itch or solve real workflow pain.
 
 ### Project Templates
 
-- **[Project Templates](https://github.com/marcuwynu23?tab=repositories&q=&type=template)** — Starter templates and boilerplates across multiple languages and frameworks, designed to remove repeated setup friction and help ship projects faster.
+- **[Project Templates](https://github.com/marcuwynu23?tab=repositories&q=&type=template)** — Boilerplates I wish I had when starting projects. Removes the setup friction so you can ship faster.
 
 #### Support & Ask for help
 
