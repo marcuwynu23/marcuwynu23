@@ -2,7 +2,7 @@
 ![banner](./banner.svg)
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
-Hi! I'm **Mark Wayne Menorca** — a DevOps Engineer with Background in Software Engineering and i also do Open source. I love building **developer tools** and **developer platforms**. 6+ years doing open source projects for personal use, learning, and deep understanding of concepts.
+Hi! I'm **Mark Wayne Menorca** — a DevOps Engineer with Background in Software Engineering and i also do Open source. I love building **developer tools** and **developer platforms**. 7 years doing open source projects for personal use, learning, and deep understanding of concepts.
 
 ### Developer Tools
 
@@ -46,11 +46,13 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[terraform-module-collections](https://github.com/marcuwynu23?tab=repositories&q=terraform)** — Reusable Terraform modules for provisioning and managing infrastructure across providers, covering VM creation, networking, storage, and environment configuration to standardize infrastructure-as-code workflows.
 
+- **[crossplane-collections](https://github.com/marcuwynu23?tab=repositories&q=crossplane)** — Reusable Crossplane compositions, functions, and providers for provisioning and managing cloud infrastructure declaratively via Kubernetes CRDs, standardizing cloud-native control plane workflows.
+
 - **[ansible-collections](https://github.com/marcuwynu23/ansible-collections)** — Reusable Ansible playbooks for provisioning, securing, and maintaining consistent server environments across multiple hosts and deployment targets.
 
 - **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios organized by logical groups for stress testing, load validation, and performance benchmarking across APIs and services.
 
-- **[k8s-collections](https://github.com/marcuwynu23/k8s-collections)** — Kubernetes manifests for managing clusters, deploying applications, configuring services, and scaling workloads across environments.
+- **[kubernetes-collections](https://github.com/marcuwynu23/kubernetes-collections)** — Kubernetes manifests for managing clusters, deploying applications, configuring services, and scaling workloads across environments.
 
 - **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built Grafana dashboards for monitoring infrastructure metrics, system performance, and application health out of the box.
 
