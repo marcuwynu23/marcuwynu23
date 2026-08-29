@@ -56,6 +56,8 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built Grafana dashboards for monitoring infrastructure metrics, system performance, and application health out of the box.
 
+- **[system-service-collections](https://github.com/marcuwynu23/system-service-collections)** — Ready-to-use system service definitions for popular services, supporting multiple init systems (systemd, OpenRC, SysVinit, Windows NSSM).
+
 ### System Projects
 
 - **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Full apps and systems I built to scratch my own itch or solve real workflow pain.
