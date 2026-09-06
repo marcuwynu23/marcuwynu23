@@ -2,7 +2,7 @@
 ![banner](./banner.svg)
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
-Hi! I'm **Mark Wayne Menorca** — a DevOps Engineer with Background in Software Engineering and i also do Open source. I love building **developer tools** and **developer platforms**. 7 years doing open source projects for personal use, learning, and deep understanding of concepts.
+Hi! I'm **Mark Wayne Menorca** — a DevOps Engineer with a background in Software Engineering. I build **developer tools** and **developer platforms**, and I maintain open-source projects around automation, security, and everyday dev workflows. 7 years of open-source work solving real problems and deeply understanding concepts — now also open for freelance DevOps engagements with startups and teams.
 
 ### Developer Tools
 
@@ -230,27 +230,19 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[Project Templates](https://github.com/marcuwynu23?tab=repositories&q=&type=template)** — Boilerplates I wish I had when starting projects. Removes the setup friction so you can ship faster.
 
-#### Support & Ask for help
+### Services & Support
 
-If you like my concepts and ideas, I'm open for donations to support my cause and if you want to ask something. Every contribution helps me build more open-source projects and share knowledge.
+If you find my open-source work useful, donations help me keep building and sharing knowledge. For work inquiries, contact is via email only:
 
-For now, I only entertain the following — and only via email:
+- **Project support** — help with my open-source projects
+- **Tool questions** — usage and troubleshooting for my tools
+- **Ideas & collaboration** — genuine collaboration proposals welcome
+- **Freelance / Startup support** — DevOps automation: CI/CD, resource provisioning, and tool/CLI building
 
-- **Support** — related to my open source projects
-- **Help** — questions about my tools
-- **Ideas** — only if you genuinely want to collaborate with me
-- **Freelancing / Startup support** — DevOps automation such as CI/CD, resource provisioning, and tool/CLI building
+> **Before emailing:** please use a clear subject such as `[Support] ...` or `[Inquiry] ...`, briefly introduce yourself, and describe the project and what you need. I don't monitor the spam folder, so a plain-text first email without bulk attachments/links helps ensure I see it. If there's no reply in 3–5 days, please resend — your first email may have been filtered.
 
-> **Please read before emailing — I won't notice spam:** I don't regularly check the spam folder, so if your email lands there I likely won't see it. Please use a clear subject like `[Support] Short description of your issue` or `[Inquiry] Short description of your topic`. Send from a real address, briefly introduce yourself, describe the project + what you need, and avoid spam-trigger words (free, winner, urgent, $$$), excessive links/attachments, ALL CAPS, and bulk forwarding on your first email. If no reply in 3–5 days, please resend your email — your first email probably went to spam.
+[<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23) [<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:support@marcuwynu.space) [<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:help@marcuwynu.space)
 
-[<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23)
+Follow me: 
 
-[<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:support@marcuwynu.space)
-
-[<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:help@marcuwynu.space)
-
-If you want to follow me, follow me on LinkedIn and Facebook:
-
-[<img title="" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">](https://linkedin.com/in/marcuwynu23)
-
-[<img title="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="155">](https://web.facebook.com/iammwwhobuild)
+[<img title="" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">](https://linkedin.com/in/marcuwynu23) [<img title="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="155">](https://web.facebook.com/iammwwhobuild)
