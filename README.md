@@ -8,32 +8,193 @@ Hi! I'm **Mark Wayne Menorca** — a DevOps Engineer with Background in Software
 
 Tools I've built out of real problems I ran into — CLIs, libraries, and utilities for automation, security, and everyday dev work. Some started as side projects, others as solutions I wished existed. [See All →](https://github.com/marcuwynu23?tab=repositories)
 
-|                                    Logo                                    | Description                                                                                                                                                                        | Official Website                 |
-| :------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-|     <img src="./logos/autofile.svg" width="75" height="50" alt="Auto">     | [Auto](https://github.com/marcuwynu23/Auto) — Run script steps in parallel terminal windows.                                                                                       | https://auto.marcuwynu.space     |
-|     <img src="./logos/surisc.svg" width="75" height="75" alt="surisc">     | [surisc](https://github.com/marcuwynu23/surisc) — Scan frontend web apps for security issues.                                                                                      | https://surisc.marcuwynu.space   |
-| <img src="./logos/git-policy.svg" width="75" height="75" alt="git-policy"> | [git-policy](https://github.com/marcuwynu23/git-policy) — Global Git rule and policy management. Install once, protect every repository.                                           |                                  |
-|  <img src="./logos/sshtunnel.svg" width="75" height="75" alt="SSHTunnel">  | [sshtunnel](https://github.com/marcuwynu23/sshtunnel) Set up reverse SSH tunnels from a config file.                                                                               |                                  |
-|                                                                            | [jsdaffodil](https://github.com/marcuwynu23/jsdaffodil) — Cross-Platform Deployment Automation Framework for Node.js.                                                          |                                  |
-|                                                                            | [godaffodil](https://github.com/marcuwynu23/godaffodil) — Cross-Platform Deployment Automation Framework for Go.                                                              |                                  |
-|                                                                            | [pydaffodil](https://github.com/marcuwynu23/pydaffodil) — Cross-Platform Deployment Automation Framework for Python.                                                          |                                  |
-|    <img src="./logos/narciso.svg" width="75" height="50" alt="narciso">    | [narciso](https://github.com/marcuwynu23/narciso) — Lightweight PHP web library. Routing, middleware, CORS, rate limiting, security headers, and database — no framework required. |                                  |
-| <img src="./logos/carabaojs.svg" width="75" height="75" alt="carabao.js">  | [carabao.js](https://github.com/marcuwynu23/carabao.js) — Node.js MVC web framework. TypeScript-first, built on Express.                                                           | https://carabao.marcuwynu.space  |
-|                                                                            | [just-utility](https://github.com/marcuwynu23/just-utility) — Windows CLI utility with built-in and 3rd party tools.                                                               |                                  |
-|                                                                            | [webserve](https://github.com/marcuwynu23/webserve) — Static file server for local development.                                                                                    | https://webserve.marcuwynu.space |
-|                                                                            | [git-community-standards](https://github.com/marcuwynu23/git-community-standards) — Apply community standard files to any Git repository (GitHub, GitLab, Bitbucket).                                       |                                  |
-|                                                                            | [git-remote-commits](https://github.com/marcuwynu23/git-remote-commits) — Live dashboard for monitoring Git commits.                                                               |                                  |
-|                                                                            | [git-share](https://github.com/marcuwynu23/git-share) — Share commits and repos instantly.                                                                                         |                                  |
-|      <img src="./logos/linea.svg" width="75" height="75" alt="Linea">      | [linea](https://github.com/marcuwynu23/linea) — Run command workflows defined in YAML.                                                                                             | https://linea.marcuwynu.space    |
-|                                                                            | [likhis](https://github.com/marcuwynu23/likhis) — Auto-discover API routes and export to testing tools.                                                                            | https://likhis.marcuwynu.space   |
-|                                                                            | [haribon](https://github.com/marcuwynu23/haribon) — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing.                                       | https://haribon.marcuwynu.space  |
-|        <img src="./logos/dan.svg" width="75" height="75" alt="DAN">        | [dan](https://github.com/marcuwynu23/danjs) — Human-readable data format for configs and datasets.                                                                                 | https://dan.marcuwynu.space      |
-|                                                                            | [treego](https://github.com/marcuwynu23/treego) — Print directory trees and search files.                                                                                          |                                  |
-|                                                                            | [dataflute](https://github.com/marcuwynu23/dataflute) — Expose local data files as read-only REST APIs.                                                                             |                                  |
-|  <img src="./logos/git-shelf.svg" width="75" height="75" alt="GitShelf">   | [GitShelf](https://github.com/marcuwynu23/gitshelf) — Self-hosted Git repository manager.                                                                                          | https://gitshelf.marcuwynu.space |
-|   <img src="./logos/mingledb.svg" width="75" height="75" alt="MingleDB">   | [MingleDB](https://github.com/mingledb) — File-based database tooling ecosystem.                                                                                                   | https://mingledb.marcuwynu.space |
-|    <img src="./logos/podfire.svg" width="75" height="75" alt="Podfire">    | [podfire](https://github.com/marcuwynu23/podfire) — Deploy GitHub repos as Dockerized apps.                                                                                        | https://podfire.marcuwynu.space  |
-|                                                                            | [envious](https://github.com/marcuwynu23/envious) — Self-hosted environment variable manager with versioning, audit trail, dashboard, and CLI.                                      | https://marcuwynu23.github.io/envious |
+<table>
+  <thead>
+    <tr>
+      <th>Logo</th>
+      <th>Description</th>
+      <th colspan="2">Version</th>
+      <th>Official Website</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Stable</th>
+      <th>Latest</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="./logos/autofile.svg" width="75" height="50" alt="Auto"></td>
+      <td><a href="https://github.com/marcuwynu23/Auto">Auto</a> — Run script steps in parallel terminal windows.</td>
+      <td>v2.1.1</td>
+      <td>v2.1.1</td>
+      <td><a href="https://auto.marcuwynu.space">https://auto.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/surisc.svg" width="75" height="75" alt="surisc"></td>
+      <td><a href="https://github.com/marcuwynu23/surisc">surisc</a> — Scan frontend web apps for security issues.</td>
+      <td>v2.3.0</td>
+      <td>v2.3.0</td>
+      <td><a href="https://surisc.marcuwynu.space">https://surisc.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/git-policy.svg" width="75" height="75" alt="git-policy"></td>
+      <td><a href="https://github.com/marcuwynu23/git-policy">git-policy</a> — Global Git rule and policy management. Install once, protect every repository.</td>
+      <td>v1.1.0</td>
+      <td>v1.1.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/sshtunnel.svg" width="75" height="75" alt="SSHTunnel"></td>
+      <td><a href="https://github.com/marcuwynu23/sshtunnel">sshtunnel</a> — Set up reverse SSH tunnels from a config file.</td>
+      <td>v1.1.0</td>
+      <td>v1.1.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/jsdaffodil">jsdaffodil</a> — Cross-Platform Deployment Automation Framework for Node.js.</td>
+      <td>v2.1.0</td>
+      <td>v2.1.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/godaffodil">godaffodil</a> — Cross-Platform Deployment Automation Framework for Go.</td>
+      <td>v1.0.0</td>
+      <td>v1.0.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/pydaffodil">pydaffodil</a> — Cross-Platform Deployment Automation Framework for Python.</td>
+      <td>v1.2.1</td>
+      <td>v1.2.1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/narciso.svg" width="75" height="50" alt="narciso"></td>
+      <td><a href="https://github.com/marcuwynu23/narciso">narciso</a> — Lightweight PHP web library. Routing, middleware, CORS, rate limiting, security headers, and database — no framework required.</td>
+      <td>v1.0.2</td>
+      <td>v1.0.2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/carabaojs.svg" width="75" height="75" alt="carabao.js"></td>
+      <td><a href="https://github.com/marcuwynu23/carabao.js">carabao.js</a> — Node.js MVC web framework. TypeScript-first, built on Express.</td>
+      <td>v1.1.5</td>
+      <td>v1.1.5</td>
+      <td><a href="https://carabao.marcuwynu.space">https://carabao.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/just-utility">just-utility</a> — Windows CLI utility with built-in and 3rd party tools.</td>
+      <td>v0.2.0</td>
+      <td>v0.2.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/webserve">webserve</a> — Static file server for local development.</td>
+      <td>v1.3.0</td>
+      <td>v1.3.0</td>
+      <td><a href="https://webserve.marcuwynu.space">https://webserve.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/git-community-standards">git-community-standards</a> — Apply community standard files to any Git repository (GitHub, GitLab, Bitbucket).</td>
+      <td>v1.1.1</td>
+      <td>v1.1.1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/git-remote-commits">git-remote-commits</a> — Live dashboard for monitoring Git commits.</td>
+      <td>v2.1.4</td>
+      <td>v2.1.4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/git-share">git-share</a> — Share commits and repos instantly.</td>
+      <td>v1.0.0</td>
+      <td>v1.0.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/linea.svg" width="75" height="75" alt="Linea"></td>
+      <td><a href="https://github.com/marcuwynu23/linea">linea</a> — Run command workflows defined in YAML.</td>
+      <td>v1.0.0</td>
+      <td>v1.0.0</td>
+      <td><a href="https://linea.marcuwynu.space">https://linea.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/likhis">likhis</a> — Auto-discover API routes and export to testing tools.</td>
+      <td>v1.1.0</td>
+      <td>v1.1.0</td>
+      <td><a href="https://likhis.marcuwynu.space">https://likhis.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/haribon">haribon</a> — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing.</td>
+      <td>v1.3.0</td>
+      <td>v1.3.0</td>
+      <td><a href="https://haribon.marcuwynu.space">https://haribon.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/dan.svg" width="75" height="75" alt="DAN"></td>
+      <td><a href="https://github.com/marcuwynu23/danjs">dan</a> — Human-readable data format for configs and datasets.</td>
+      <td>v1.0.0</td>
+      <td>v1.0.0</td>
+      <td><a href="https://dan.marcuwynu.space">https://dan.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/treego">treego</a> — Print directory trees and search files.</td>
+      <td>v1.1.2</td>
+      <td>v1.1.2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/dataflute">dataflute</a> — Expose local data files as read-only REST APIs.</td>
+      <td>v1.0.0</td>
+      <td>v1.0.0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/git-shelf.svg" width="75" height="75" alt="GitShelf"></td>
+      <td><a href="https://github.com/marcuwynu23/gitshelf">GitShelf</a> — Self-hosted Git repository manager.</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://gitshelf.marcuwynu.space">https://gitshelf.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/mingledb.svg" width="75" height="75" alt="MingleDB"></td>
+      <td><a href="https://github.com/mingledb">MingleDB</a> — File-based database tooling ecosystem.</td>
+      <td>v1.2.0</td>
+      <td>v1.2.0</td>
+      <td><a href="https://mingledb.marcuwynu.space">https://mingledb.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="./logos/podfire.svg" width="75" height="75" alt="Podfire"></td>
+      <td><a href="https://github.com/marcuwynu23/podfire">podfire</a> — Deploy GitHub repos as Dockerized apps.</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://podfire.marcuwynu.space">https://podfire.marcuwynu.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/marcuwynu23/envious">envious</a> — Self-hosted environment variable manager with versioning, audit trail, dashboard, and CLI.</td>
+      <td>v2.0.0</td>
+      <td>v2.0.0</td>
+      <td><a href="https://marcuwynu23.github.io/envious">https://marcuwynu23.github.io/envious</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Software Engineering Concepts
 
