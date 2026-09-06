@@ -1,8 +1,9 @@
-
 ![banner](./banner.svg)
 [![committers.top badge](https://user-badge.committers.top/philippines_private/marcuwynu23.svg)](https://user-badge.committers.top/philippines_private/marcuwynu23)
 
 Hi! I'm **Mark Wayne Menorca** — a DevOps Engineer with a background in Software Engineering. I build **developer tools** and **developer platforms**, and I maintain open-source projects around automation, security, and everyday dev workflows. 7 years of open-source work solving real problems and deeply understanding concepts — now also open for freelance DevOps engagements with startups and teams.
+
+---
 
 ### Developer Tools
 
@@ -196,6 +197,8 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
   </tbody>
 </table>
 
+---
+
 ### Software Engineering Concepts
 
 Concepts I wanted to truly understand, so I built projects around them — API types, caching, CAP theorem, data structures, and more.
@@ -222,13 +225,19 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[system-service-collections](https://github.com/marcuwynu23/system-service-collections)** — Ready-to-use system service definitions for popular services, supporting multiple init systems (systemd, OpenRC, SysVinit, Windows NSSM).
 
+---
+
 ### System Projects
 
 - **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Full apps and systems I built to scratch my own itch or solve real workflow pain.
 
+---
+
 ### Project Templates
 
 - **[Project Templates](https://github.com/marcuwynu23?tab=repositories&q=&type=template)** — Boilerplates I wish I had when starting projects. Removes the setup friction so you can ship faster.
+
+---
 
 ### Services & Support
 
@@ -243,6 +252,6 @@ If you find my open-source work useful, donations help me keep building and shar
 
 [<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23) [<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:support@marcuwynu.space) [<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:help@marcuwynu.space)
 
-Follow me: 
+Follow me:
 
 [<img title="" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">](https://linkedin.com/in/marcuwynu23) [<img title="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="155">](https://web.facebook.com/iammwwhobuild)
