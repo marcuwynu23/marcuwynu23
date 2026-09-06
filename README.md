@@ -31,6 +31,7 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
 |  <img src="./logos/git-shelf.svg" width="75" height="75" alt="GitShelf">   | [GitShelf](https://github.com/marcuwynu23/gitshelf) — Self-hosted Git repository manager.                                                                                          | https://gitshelf.marcuwynu.space |
 |   <img src="./logos/mingledb.svg" width="75" height="75" alt="MingleDB">   | [MingleDB](https://github.com/mingledb) — File-based database tooling ecosystem.                                                                                                   | https://mingledb.marcuwynu.space |
 |    <img src="./logos/podfire.svg" width="75" height="75" alt="Podfire">    | [podfire](https://github.com/marcuwynu23/podfire) — Deploy GitHub repos as Dockerized apps.                                                                                        | https://podfire.marcuwynu.space  |
+|                                                                            | [envious](https://github.com/marcuwynu23/envious) — Self-hosted environment variable manager with versioning, audit trail, dashboard, and CLI.                                      | https://marcuwynu23.github.io/envious |
 
 ### Software Engineering Concepts
 
