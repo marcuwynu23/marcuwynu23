@@ -20,8 +20,8 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
     <tr>
       <th></th>
       <th></th>
-      <th>Stable</th>
       <th>Latest</th>
+      <th>Stable</th>
       <th></th>
     </tr>
   </thead>
@@ -191,7 +191,7 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/envious">envious</a> — Self-hosted environment variable manager with versioning, audit trail, dashboard, and CLI.</td>
       <td>v2.0.0</td>
-      <td>v2.0.0</td>
+      <td>v1.0.0</td>
       <td><a href="https://marcuwynu23.github.io/envious">https://marcuwynu23.github.io/envious</a></td>
     </tr>
   </tbody>
