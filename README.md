@@ -73,8 +73,23 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 If you like my concepts and ideas, I'm open for donations to support my cause and if you want to ask something. Every contribution helps me build more open-source projects and share knowledge.
 
+For now, I only entertain the following — and only via email:
+
+- **Support** — related to my open source projects
+- **Help** — questions about my tools
+- **Ideas** — only if you genuinely want to collaborate with me
+- **Freelancing / Startup support** — DevOps automation such as CI/CD, resource provisioning, and tool/CLI building
+
+> **Please read before emailing — I won't notice spam:** I don't regularly check the spam folder, so if your email lands there I likely won't see it. Please use a clear subject like `[Support] Short description of your issue` or `[Inquiry] Short description of your topic`. Send from a real address, briefly introduce yourself, describe the project + what you need, and avoid spam-trigger words (free, winner, urgent, $$$), excessive links/attachments, ALL CAPS, and bulk forwarding on your first email. If no reply in 3–5 days, please resend your email — your first email probably went to spam.
+
 [<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23)
 
 [<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:support@marcuwynu.space)
 
 [<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:help@marcuwynu.space)
+
+If you want to follow me, follow me on LinkedIn and Facebook:
+
+[<img title="" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">](https://linkedin.com/in/marcuwynu23)
+
+[<img title="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="155">](https://web.facebook.com/iammwwhobuild)
