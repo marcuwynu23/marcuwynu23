@@ -140,7 +140,7 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
     </tr>
     <tr>
       <td align="center"></td>
-      <td><a href="https://github.com/marcuwynu23/haribon">haribon</a> — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing.</td>
+      <td><a href="https://github.com/marcuwynu23/haribon">haribon</a> — Lightweight Go L7 HTTP load balancer — 5 pluggable strategies (round-robin, weighted, least-conn, random, ip-hash), health-aware routing, circuit breaker, retry, Prometheus metrics & structured logging. Supports frontend and backend web servers.</td>
       <td>v2.0.1</td>
       <td>v2.0.1</td>
       <td><a href="https://haribon.marcuwynu.space">https://haribon.marcuwynu.space</a></td>
