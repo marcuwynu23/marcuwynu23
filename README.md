@@ -141,8 +141,8 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/haribon">haribon</a> — Layer 7 load balancer written in Go with round-robin routing and health-aware balancing.</td>
-      <td>v1.3.0</td>
-      <td>v1.3.0</td>
+      <td>v2.0.1</td>
+      <td>v2.0.1</td>
       <td><a href="https://haribon.marcuwynu.space">https://haribon.marcuwynu.space</a></td>
     </tr>
     <tr>
