@@ -225,6 +225,8 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[system-service-collections](https://github.com/marcuwynu23/system-service-collections)** — Ready-to-use system service definitions for popular services, supporting multiple init systems (systemd, OpenRC, SysVinit, Windows NSSM).
 
+- **[qemu-collections](https://github.com/marcuwynu23/qemu-collections)** — Virtual machine configurations using QEMU, including operating systems and network appliances for learning,simulation, and testing.
+
 ---
 
 ### System Projects
