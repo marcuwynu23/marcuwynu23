@@ -252,7 +252,7 @@ If you find my open-source work useful, donations help me keep building and shar
 
 > **Before emailing:** please use a clear subject such as `[Support] ...` or `[Inquiry] ...`, briefly introduce yourself, and describe the project and what you need. I don't monitor the spam folder, so a plain-text first email without bulk attachments/links helps ensure I see it. If there's no reply in 3–5 days, please resend — your first email may have been filtered.
 
-[<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23) [<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:support@marcuwynu.space) [<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:help@marcuwynu.space)
+[<img title="" src="https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donation" width="150">](https://paypal.me/wynumarcu23) [<img title="" src="https://img.shields.io/badge/Support-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Support" width="155">](mailto:markwayne.menorca.it@gmail.com) [<img title="" src="https://img.shields.io/badge/Inquiry-26884c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Inquiry" width="150">](mailto:markwayne.menorca.it@gmail.com)
 
 Follow me:
 
