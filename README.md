@@ -213,6 +213,8 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[terraform-module-collections](https://github.com/marcuwynu23?tab=repositories&q=terraform)** — Reusable Terraform modules for provisioning and managing infrastructure across providers, covering VM creation, networking, storage, and environment configuration to standardize infrastructure-as-code workflows.
 
+- **[pulumi-collections](https://github.com/marcuwynu23?tab=repositories&q=pulumi-projects)** — Infrastructure as code projects built with pulumi, covering cloud resource provisioning, deployments, and managed infrastructure configurations.
+
 - **[crossplane-collections](https://github.com/marcuwynu23?tab=repositories&q=crossplane)** — Reusable Crossplane compositions, functions, and providers for provisioning and managing cloud infrastructure declaratively via Kubernetes CRDs, standardizing cloud-native control plane workflows.
 
 - **[ansible-collections](https://github.com/marcuwynu23/ansible-collections)** — Reusable Ansible playbooks for provisioning, securing, and maintaining consistent server environments across multiple hosts and deployment targets.
@@ -226,6 +228,8 @@ Stacks and configs I've collected and refined from real deployments — provisio
 - **[system-service-collections](https://github.com/marcuwynu23/system-service-collections)** — Ready-to-use system service definitions for popular services, supporting multiple init systems (systemd, OpenRC, SysVinit, Windows NSSM).
 
 - **[qemu-collections](https://github.com/marcuwynu23/qemu-collections)** — Virtual machine configurations using QEMU, including operating systems and network appliances for learning,simulation, and testing.
+
+- **[linux-initial-boot-provisioning](https://github.com/marcuwynu23/linux-initial-boot-provisioning)** — Scripts and configurations for initial boot provisioning of Linux systems, covering setup, hardening, and essential tooling.
 
 ---
 
