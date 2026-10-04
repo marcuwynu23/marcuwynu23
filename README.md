@@ -218,6 +218,7 @@ Stacks and configs I've collected and refined from real deployments — provisio
 - **[crossplane-collections](https://github.com/marcuwynu23?tab=repositories&q=crossplane)** — Reusable Crossplane compositions, functions, and providers for provisioning and managing cloud infrastructure declaratively via Kubernetes CRDs, standardizing cloud-native control plane workflows.
 
 - **[ansible-bootstrap-collections](https://github.com/marcuwynu23/ansible-bootstrap-collections)** — Reusable Ansible collections and modular roles for bootstrapping, securing, and maintaining consistent server environments across multiple hosts and deployment targets.
+- **[ansible-playbook-collections](https://github.com/marcuwynu23/ansible-playbook-collections)** — A Collection of ready-to-use Ansible playbooks designed to simplify the setup of popular services and infrastructure automation.
 
 - **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios organized by logical groups for stress testing, load validation, and performance benchmarking across APIs and services.
 
