@@ -228,9 +228,15 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 - **[system-service-collections](https://github.com/marcuwynu23/system-service-collections)** — Ready-to-use system service definitions for popular services, supporting multiple init systems (systemd, OpenRC, SysVinit, Windows NSSM).
 
-- **[qemu-collections](https://github.com/marcuwynu23/qemu-collections)** — Virtual machine configurations using QEMU, including operating systems and network appliances for learning,simulation, and testing.
+- **[qemu-collections](https://github.com/marcuwynu23/qemu-collections)** — Virtual machine configurations using QEMU, including operating systems and network appliances for learning, simulation, and testing.
 
 - **[linux-initial-boot-provisioning](https://github.com/marcuwynu23/linux-initial-boot-provisioning)** — Scripts and configurations for initial boot provisioning of Linux systems, covering setup, hardening, and essential tooling.
+
+---
+
+### Cybersecurity Labs
+
+- **[cve-simulation-lab](https://github.com/marcuwynu23/cve-simulation-lab)** — Ready-to-use CVE simulation labs for reproducing and analyzing vulnerabilities in a safe, controlled environment. Supports Docker, Podman, and QEMU runtimes with categorized labs for RCE, path traversal, privilege escalation, injection, misconfiguration, and firmware/embedded.
 
 ---
 
