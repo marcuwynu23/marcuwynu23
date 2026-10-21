@@ -206,16 +206,14 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
     <tr>
       <th>Title</th>
       <th>Description</th>
-      <th>Runtime</th>
-      <th>Categories</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">cve-simulation-lab</a></td>
-      <td>Hands-on vulnerability reproduction labs with detection & exploit scripts</td>
-      <td>Docker, Podman, QEMU</td>
-      <td>RCE, Path Traversal, Privesc, Injection, Misconfig, Firmware</td>
+      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">CVE Simulation Lab</a></td>
+      <td>Hands-on vulnerability reproduction labs with detection & exploit scripts. Supports Docker, Podman, QEMU. Categories: RCE, Path Traversal, Privesc, Injection, Misconfig, Firmware.</td>
+      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">View</a></td>
     </tr>
   </tbody>
 </table>
@@ -255,62 +253,62 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
   </thead>
   <tbody>
     <tr>
-      <td>docker-compose-collections</td>
+      <td>Docker Compose Collections</td>
       <td>Ready-to-use Docker Compose stacks for common infrastructure and development tooling</td>
       <td><a href="https://github.com/marcuwynu23/docker-compose-collections">View</a></td>
     </tr>
     <tr>
-      <td>terraform-module-collections</td>
+      <td>Terraform Module Collections</td>
       <td>Reusable Terraform modules for provisioning and managing infrastructure across providers</td>
       <td><a href="https://github.com/marcuwynu23?tab=repositories&q=terraform">View</a></td>
     </tr>
     <tr>
-      <td>pulumi-collections</td>
+      <td>Pulumi Collections</td>
       <td>Infrastructure as code projects built with Pulumi for cloud resource provisioning</td>
       <td><a href="https://github.com/marcuwynu23?tab=repositories&q=pulumi-projects">View</a></td>
     </tr>
     <tr>
-      <td>crossplane-collections</td>
+      <td>Crossplane Collections</td>
       <td>Crossplane compositions and providers for managing cloud infrastructure via Kubernetes CRDs</td>
       <td><a href="https://github.com/marcuwynu23?tab=repositories&q=crossplane">View</a></td>
     </tr>
     <tr>
-      <td>ansible-bootstrap-collections</td>
+      <td>Ansible Bootstrap Collections</td>
       <td>Ansible collections and modular roles for bootstrapping and securing server environments</td>
       <td><a href="https://github.com/marcuwynu23/ansible-bootstrap-collections">View</a></td>
     </tr>
     <tr>
-      <td>ansible-playbook-collections</td>
+      <td>Ansible Playbook Collections</td>
       <td>Ready-to-use Ansible playbooks for popular services and infrastructure automation</td>
       <td><a href="https://github.com/marcuwynu23/ansible-playbook-collections">View</a></td>
     </tr>
     <tr>
-      <td>artillery-collections</td>
+      <td>Artillery Collections</td>
       <td>Artillery scenarios for stress testing, load validation, and performance benchmarking</td>
       <td><a href="https://github.com/marcuwynu23/artillery-collections">View</a></td>
     </tr>
     <tr>
-      <td>kubernetes-collections</td>
+      <td>Kubernetes Collections</td>
       <td>Kubernetes manifests for managing clusters, deploying apps, and scaling workloads</td>
       <td><a href="https://github.com/marcuwynu23/kubernetes-collections">View</a></td>
     </tr>
     <tr>
-      <td>grafana-dashboard-collections</td>
+      <td>Grafana Dashboard Collections</td>
       <td>Pre-built Grafana dashboards for monitoring infrastructure and application health</td>
       <td><a href="https://github.com/marcuwynu23/grafana-dashboard-collections">View</a></td>
     </tr>
     <tr>
-      <td>system-service-collections</td>
+      <td>System Service Collections</td>
       <td>System service definitions for popular services across multiple init systems</td>
       <td><a href="https://github.com/marcuwynu23/system-service-collections">View</a></td>
     </tr>
     <tr>
-      <td>qemu-collections</td>
+      <td>QEMU Collections</td>
       <td>QEMU virtual machine configurations for operating systems and network appliances</td>
       <td><a href="https://github.com/marcuwynu23/qemu-collections">View</a></td>
     </tr>
     <tr>
-      <td>linux-initial-boot-provisioning</td>
+      <td>Linux Initial Boot Provisioning</td>
       <td>Scripts and configurations for initial boot provisioning and hardening of Linux systems</td>
       <td><a href="https://github.com/marcuwynu23/linux-initial-boot-provisioning">View</a></td>
     </tr>
