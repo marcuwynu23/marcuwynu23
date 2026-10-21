@@ -236,7 +236,24 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 ### Cybersecurity Labs
 
-- **[cve-simulation-lab](https://github.com/marcuwynu23/cve-simulation-lab)** — Ready-to-use CVE simulation labs for reproducing and analyzing vulnerabilities in a safe, controlled environment. Supports Docker, Podman, and QEMU runtimes with categorized labs for RCE, path traversal, privilege escalation, injection, misconfiguration, and firmware/embedded.
+<table>
+  <thead>
+    <tr>
+      <th>Logo</th>
+      <th>Description</th>
+      <th>Runtime</th>
+      <th>Categories</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🔬</td>
+      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">cve-simulation-lab</a> — Hands-on vulnerability reproduction labs with detection & exploit scripts</td>
+      <td>Docker, Podman, QEMU</td>
+      <td>RCE, Path Traversal, Privesc, Injection, Misconfig, Firmware</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
