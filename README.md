@@ -199,47 +199,12 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
 
 ---
 
-### Software Engineering Concepts
-
-Concepts I wanted to truly understand, so I built projects around them — API types, caching, CAP theorem, data structures, and more.
-
-- **[Project Demonstrations](https://github.com/marcuwynu23?tab=repositories&q=project-demonstration)** — Hands-on implementations of core software engineering concepts across different paradigms and technologies.
-
-### DevOps Collections
-
-Stacks and configs I've collected and refined from real deployments — provisioning, containerization, orchestration, monitoring, and automation.
-
-- **[docker-compose-collections](https://github.com/marcuwynu23/docker-compose-collections)** — Ready-to-use Docker Compose stacks for common infrastructure and development tooling, designed to standardize local and server environments quickly without writing configs from scratch.
-
-- **[terraform-module-collections](https://github.com/marcuwynu23?tab=repositories&q=terraform)** — Reusable Terraform modules for provisioning and managing infrastructure across providers, covering VM creation, networking, storage, and environment configuration to standardize infrastructure-as-code workflows.
-
-- **[pulumi-collections](https://github.com/marcuwynu23?tab=repositories&q=pulumi-projects)** — Infrastructure as code projects built with pulumi, covering cloud resource provisioning, deployments, and managed infrastructure configurations.
-
-- **[crossplane-collections](https://github.com/marcuwynu23?tab=repositories&q=crossplane)** — Reusable Crossplane compositions, functions, and providers for provisioning and managing cloud infrastructure declaratively via Kubernetes CRDs, standardizing cloud-native control plane workflows.
-
-- **[ansible-bootstrap-collections](https://github.com/marcuwynu23/ansible-bootstrap-collections)** — Reusable Ansible collections and modular roles for bootstrapping, securing, and maintaining consistent server environments across multiple hosts and deployment targets.
-- **[ansible-playbook-collections](https://github.com/marcuwynu23/ansible-playbook-collections)** — A Collection of ready-to-use Ansible playbooks designed to simplify the setup of popular services and infrastructure automation.
-
-- **[artillery-collections](https://github.com/marcuwynu23/artillery-collections)** — Reusable Artillery scenarios organized by logical groups for stress testing, load validation, and performance benchmarking across APIs and services.
-
-- **[kubernetes-collections](https://github.com/marcuwynu23/kubernetes-collections)** — Kubernetes manifests for managing clusters, deploying applications, configuring services, and scaling workloads across environments.
-
-- **[grafana-dashboard-collections](https://github.com/marcuwynu23/grafana-dashboard-collections)** — Pre-built Grafana dashboards for monitoring infrastructure metrics, system performance, and application health out of the box.
-
-- **[system-service-collections](https://github.com/marcuwynu23/system-service-collections)** — Ready-to-use system service definitions for popular services, supporting multiple init systems (systemd, OpenRC, SysVinit, Windows NSSM).
-
-- **[qemu-collections](https://github.com/marcuwynu23/qemu-collections)** — Virtual machine configurations using QEMU, including operating systems and network appliances for learning, simulation, and testing.
-
-- **[linux-initial-boot-provisioning](https://github.com/marcuwynu23/linux-initial-boot-provisioning)** — Scripts and configurations for initial boot provisioning of Linux systems, covering setup, hardening, and essential tooling.
-
----
-
 ### Cybersecurity Labs
 
 <table>
   <thead>
     <tr>
-      <th>Logo</th>
+      <th>Title</th>
       <th>Description</th>
       <th>Runtime</th>
       <th>Categories</th>
@@ -247,8 +212,8 @@ Stacks and configs I've collected and refined from real deployments — provisio
   </thead>
   <tbody>
     <tr>
-      <td align="center">🔬</td>
-      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">cve-simulation-lab</a> — Hands-on vulnerability reproduction labs with detection & exploit scripts</td>
+      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">cve-simulation-lab</a></td>
+      <td>Hands-on vulnerability reproduction labs with detection & exploit scripts</td>
       <td>Docker, Podman, QEMU</td>
       <td>RCE, Path Traversal, Privesc, Injection, Misconfig, Firmware</td>
     </tr>
@@ -257,15 +222,142 @@ Stacks and configs I've collected and refined from real deployments — provisio
 
 ---
 
+### Software Engineering Concepts
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project Demonstrations</td>
+      <td>Hands-on implementations of core software engineering concepts across different paradigms and technologies</td>
+      <td><a href="https://github.com/marcuwynu23?tab=repositories&q=project-demonstration">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### DevOps Collections
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>docker-compose-collections</td>
+      <td>Ready-to-use Docker Compose stacks for common infrastructure and development tooling</td>
+      <td><a href="https://github.com/marcuwynu23/docker-compose-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>terraform-module-collections</td>
+      <td>Reusable Terraform modules for provisioning and managing infrastructure across providers</td>
+      <td><a href="https://github.com/marcuwynu23?tab=repositories&q=terraform">View</a></td>
+    </tr>
+    <tr>
+      <td>pulumi-collections</td>
+      <td>Infrastructure as code projects built with Pulumi for cloud resource provisioning</td>
+      <td><a href="https://github.com/marcuwynu23?tab=repositories&q=pulumi-projects">View</a></td>
+    </tr>
+    <tr>
+      <td>crossplane-collections</td>
+      <td>Crossplane compositions and providers for managing cloud infrastructure via Kubernetes CRDs</td>
+      <td><a href="https://github.com/marcuwynu23?tab=repositories&q=crossplane">View</a></td>
+    </tr>
+    <tr>
+      <td>ansible-bootstrap-collections</td>
+      <td>Ansible collections and modular roles for bootstrapping and securing server environments</td>
+      <td><a href="https://github.com/marcuwynu23/ansible-bootstrap-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>ansible-playbook-collections</td>
+      <td>Ready-to-use Ansible playbooks for popular services and infrastructure automation</td>
+      <td><a href="https://github.com/marcuwynu23/ansible-playbook-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>artillery-collections</td>
+      <td>Artillery scenarios for stress testing, load validation, and performance benchmarking</td>
+      <td><a href="https://github.com/marcuwynu23/artillery-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>kubernetes-collections</td>
+      <td>Kubernetes manifests for managing clusters, deploying apps, and scaling workloads</td>
+      <td><a href="https://github.com/marcuwynu23/kubernetes-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>grafana-dashboard-collections</td>
+      <td>Pre-built Grafana dashboards for monitoring infrastructure and application health</td>
+      <td><a href="https://github.com/marcuwynu23/grafana-dashboard-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>system-service-collections</td>
+      <td>System service definitions for popular services across multiple init systems</td>
+      <td><a href="https://github.com/marcuwynu23/system-service-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>qemu-collections</td>
+      <td>QEMU virtual machine configurations for operating systems and network appliances</td>
+      <td><a href="https://github.com/marcuwynu23/qemu-collections">View</a></td>
+    </tr>
+    <tr>
+      <td>linux-initial-boot-provisioning</td>
+      <td>Scripts and configurations for initial boot provisioning and hardening of Linux systems</td>
+      <td><a href="https://github.com/marcuwynu23/linux-initial-boot-provisioning">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### System Projects
 
-- **[System Projects](https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22)** — Full apps and systems I built to scratch my own itch or solve real workflow pain.
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>System Projects</td>
+      <td>Full apps and systems built to solve real workflow pain</td>
+      <td><a href="https://github.com/marcuwynu23?tab=repositories&q=%22system-project%22">View</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### Project Templates
 
-- **[Project Templates](https://github.com/marcuwynu23?tab=repositories&q=&type=template)** — Boilerplates I wish I had when starting projects. Removes the setup friction so you can ship faster.
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project Templates</td>
+      <td>Boilerplates to remove setup friction so you can ship faster</td>
+      <td><a href="https://github.com/marcuwynu23?tab=repositories&q=&type=template">View</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
