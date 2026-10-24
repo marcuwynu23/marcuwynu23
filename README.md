@@ -15,7 +15,7 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
       <th>Logo</th>
       <th>Description</th>
       <th colspan="2">Version</th>
-      <th>Official Website</th>
+      <th>Website</th>
     </tr>
     <tr>
       <th></th>
@@ -31,169 +31,170 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
       <td><a href="https://github.com/marcuwynu23/Auto">Auto</a> — Run script steps in parallel terminal windows.</td>
       <td>v2.1.1</td>
       <td>v2.1.1</td>
-      <td><a href="https://auto.marcuwynu.space">https://auto.marcuwynu.space</a></td>
+      <td><a href="https://auto.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/surisc.svg" width="75" height="75" alt="surisc"></td>
       <td><a href="https://github.com/marcuwynu23/surisc">surisc</a> — Scan frontend web apps for security issues.</td>
       <td>v2.3.0</td>
       <td>v2.3.0</td>
-      <td><a href="https://surisc.marcuwynu.space">https://surisc.marcuwynu.space</a></td>
+      <td><a href="https://surisc.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/git-policy.svg" width="75" height="75" alt="git-policy"></td>
       <td><a href="https://github.com/marcuwynu23/git-policy">git-policy</a> — Global Git rule and policy management. Install once, protect every repository.</td>
       <td>v1.1.0</td>
       <td>v1.1.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/sshtunnel.svg" width="75" height="75" alt="SSHTunnel"></td>
       <td><a href="https://github.com/marcuwynu23/sshtunnel">sshtunnel</a> — Set up reverse SSH tunnels from a config file.</td>
       <td>v1.1.0</td>
       <td>v1.1.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/jsdaffodil">jsdaffodil</a> — Cross-Platform Deployment Automation Framework for Node.js.</td>
       <td>v2.1.0</td>
       <td>v2.1.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/godaffodil">godaffodil</a> — Cross-Platform Deployment Automation Framework for Go.</td>
       <td>v1.0.0</td>
       <td>v1.0.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/pydaffodil">pydaffodil</a> — Cross-Platform Deployment Automation Framework for Python.</td>
       <td>v1.2.1</td>
       <td>v1.2.1</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/narciso.svg" width="75" height="50" alt="narciso"></td>
       <td><a href="https://github.com/marcuwynu23/narciso">narciso</a> — Lightweight PHP web library. Routing, middleware, CORS, rate limiting, security headers, and database — no framework required.</td>
       <td>v1.0.2</td>
       <td>v1.0.2</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/carabaojs.svg" width="75" height="75" alt="carabao.js"></td>
       <td><a href="https://github.com/marcuwynu23/carabao.js">carabao.js</a> — Node.js MVC web framework. TypeScript-first, built on Express.</td>
       <td>v1.1.5</td>
       <td>v1.1.5</td>
-      <td><a href="https://carabao.marcuwynu.space">https://carabao.marcuwynu.space</a></td>
+      <td><a href="https://carabao.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/just-utility">just-utility</a> — Windows CLI utility with built-in and 3rd party tools.</td>
       <td>v0.2.0</td>
       <td>v0.2.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/webserve">webserve</a> — Static file server for local development.</td>
       <td>v1.3.0</td>
       <td>v1.3.0</td>
-      <td><a href="https://webserve.marcuwynu.space">https://webserve.marcuwynu.space</a></td>
+      <td><a href="https://webserve.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/git-community-standards">git-community-standards</a> — Apply community standard files to any Git repository (GitHub, GitLab, Bitbucket).</td>
       <td>v1.1.1</td>
       <td>v1.1.1</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/git-remote-commits">git-remote-commits</a> — Live dashboard for monitoring Git commits.</td>
       <td>v2.1.4</td>
       <td>v2.1.4</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/git-share">git-share</a> — Share commits and repos instantly.</td>
       <td>v1.0.0</td>
       <td>v1.0.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/linea.svg" width="75" height="75" alt="Linea"></td>
       <td><a href="https://github.com/marcuwynu23/linea">linea</a> — Run command workflows defined in YAML.</td>
       <td>v1.0.0</td>
       <td>v1.0.0</td>
-      <td><a href="https://linea.marcuwynu.space">https://linea.marcuwynu.space</a></td>
+      <td><a href="https://linea.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/likhis">likhis</a> — Auto-discover API routes and export to testing tools.</td>
       <td>v1.1.0</td>
       <td>v1.1.0</td>
-      <td><a href="https://likhis.marcuwynu.space">https://likhis.marcuwynu.space</a></td>
+      <td><a href="https://likhis.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/haribon">haribon</a> — Lightweight, production-ready Layer 7 HTTP load balancer in Go. Simple, observable and extensible — built for frontend and backend web servers.</td>
       <td>v2.1.0</td>
       <td>v2.0.1</td>
-      <td><a href="https://haribon.marcuwynu.space">https://haribon.marcuwynu.space</a></td>
+      <td><a href="https://haribon.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/dan.svg" width="75" height="75" alt="DAN"></td>
       <td><a href="https://github.com/marcuwynu23/danjs">dan</a> — Human-readable data format for configs and datasets.</td>
       <td>v1.0.0</td>
       <td>v1.0.0</td>
-      <td><a href="https://dan.marcuwynu.space">https://dan.marcuwynu.space</a></td>
+      <td><a href="https://dan.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/treego">treego</a> — Print directory trees and search files.</td>
       <td>v1.1.2</td>
       <td>v1.1.2</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/dataflute">dataflute</a> — Expose local data files as read-only REST APIs.</td>
       <td>v1.0.0</td>
       <td>v1.0.0</td>
-      <td></td>
+      <td><a href="#">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/git-shelf.svg" width="75" height="75" alt="GitShelf"></td>
       <td><a href="https://github.com/marcuwynu23/gitshelf">GitShelf</a> — Self-hosted Git repository manager.</td>
       <td></td>
       <td></td>
-      <td><a href="https://gitshelf.marcuwynu.space">https://gitshelf.marcuwynu.space</a></td>
+      <td><a href="https://gitshelf.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/mingledb.svg" width="75" height="75" alt="MingleDB"></td>
       <td><a href="https://github.com/mingledb">MingleDB</a> — File-based database tooling ecosystem.</td>
       <td>v1.2.0</td>
       <td>v1.2.0</td>
-      <td><a href="https://mingledb.marcuwynu.space">https://mingledb.marcuwynu.space</a></td>
+      <td><a href="https://mingledb.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./logos/podfire.svg" width="75" height="75" alt="Podfire"></td>
       <td><a href="https://github.com/marcuwynu23/podfire">podfire</a> — Deploy GitHub repos as Dockerized apps.</td>
       <td></td>
       <td></td>
-      <td><a href="https://podfire.marcuwynu.space">https://podfire.marcuwynu.space</a></td>
+      <td><a href="https://podfire.iammwhobuild.space">View</a></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/marcuwynu23/envious">envious</a> — Self-hosted environment variable manager with versioning, audit trail, dashboard, and CLI.</td>
       <td>v2.0.0</td>
       <td>v1.0.0</td>
-      <td><a href="https://marcuwynu23.github.io/envious">https://marcuwynu23.github.io/envious</a></td>
+      <td><a href="https://envious.iammwhobuild.space">View</a></td>
     </tr>
+
   </tbody>
 </table>
 
