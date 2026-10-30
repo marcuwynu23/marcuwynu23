@@ -212,7 +212,7 @@ Tools I've built out of real problems I ran into — CLIs, libraries, and utilit
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">CVE Simulation Lab</a></td>
+      <td>CVE Simulation Lab</td>
       <td>Hands-on vulnerability reproduction labs with detection & exploit scripts. Supports Docker, Podman, QEMU. Categories: RCE, Path Traversal, Privesc, Injection, Misconfig, Firmware.</td>
       <td><a href="https://github.com/marcuwynu23/cve-simulation-lab">View</a></td>
     </tr>
